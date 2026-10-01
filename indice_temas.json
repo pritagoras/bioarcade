@@ -19,12 +19,6 @@
       "cantidad_preguntas": 25
     },
     {
-      "id": "parcial-completo",
-      "titulo": "Parcial completo (banco de preguntas)",
-      "archivo": "tema_parcial-completo.json",
-      "cantidad_preguntas": 187
-    },
-    {
       "id": "caracteristicas-y-estructura-viral",
       "titulo": "Características Generales y Estructura Viral",
       "archivo": "tema_caracteristicas-y-estructura-viral.json",
@@ -47,6 +41,24 @@
       "titulo": "Viroides y Priones",
       "archivo": "tema_viroides-y-priones.json",
       "cantidad_preguntas": 16
+    },
+    {
+      "id": "quimica-general-y-agua",
+      "titulo": "Química general y agua",
+      "archivo": "tema_quimica-general-y-agua.json",
+      "cantidad_preguntas": 25
+    },
+    {
+      "id": "glucidos",
+      "titulo": "Glúcidos",
+      "archivo": "tema_glucidos.json",
+      "cantidad_preguntas": 50
+    },
+    {
+      "id": "parcial-completo",
+      "titulo": "Parcial completo (banco de preguntas)",
+      "archivo": "tema_parcial-completo.json",
+      "cantidad_preguntas": 187
     }
   ]
 }
