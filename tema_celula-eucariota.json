@@ -1,0 +1,388 @@
+{
+  "tema": {
+    "id": "celula-eucariota",
+    "titulo": "Célula eucariota",
+    "descripcion": "Cubre la ultraestructura de la célula eucariota, diferencias entre célula animal y vegetal, sistema de endomembranas, citoesqueleto, organelas energéticas y núcleo.",
+    "fuentes": [
+      "3-Célula Eucariota.pdf",
+      "genomasur.com-Introducción al estudio de la célula.pdf"
+    ]
+  },
+  "preguntas": [
+    {
+      "id": "celula-eucariota-001",
+      "subtema": "Membrana plasmática",
+      "dificultad": "facil",
+      "pregunta": "¿Qué esterol se encuentra intercalado entre los fosfolípidos de la membrana plasmática de células animales regulando su fluidez?",
+      "opciones": {
+        "a": "Ergosterol",
+        "b": "Estigmasterol",
+        "c": "Colesterol",
+        "d": "Quitina"
+      },
+      "correcta": "c",
+      "justificacion_correcta": "El colesterol es un lípido exclusivo de membranas de células animales que modula la fluidez e impide la cristalización a bajas temperaturas.",
+      "fuente": "3-Célula Eucariota.pdf, p. 48; genomasur.com, p. 21"
+    },
+    {
+      "id": "celula-eucariota-002",
+      "subtema": "Membrana plasmática",
+      "dificultad": "dificil",
+      "pregunta": "¿Cómo afecta el colesterol a la fluidez de la membrana plasmática animal a bajas temperaturas?",
+      "opciones": {
+        "a": "Aumenta la viscosidad y favorece el empaquetamiento rígido de los ácidos grasos.",
+        "b": "Impide la cristalización de los fosfolípidos, manteniendo o aumentando la fluidez.",
+        "c": "Desecha las proteínas integrales para solidificar la bicapa.",
+        "d": "Promueve la translación de flip-flop espontánea sin gasto energético."
+      },
+      "correcta": "b",
+      "justificacion_correcta": "A bajas temperaturas, el colesterol se intercala entre las colas apolares e impide que se empaqueten y cristalicen, preservando la fluidez.",
+      "fuente": "3-Célula Eucariota.pdf, p. 48"
+    },
+    {
+      "id": "celula-eucariota-003",
+      "subtema": "Sistema de endomembranas",
+      "dificultad": "facil",
+      "pregunta": "¿Cuál es la función principal del retículo endoplasmático rugoso (RER o REG)?",
+      "opciones": {
+        "a": "Síntesis de lípidos complejos y esteroides.",
+        "b": "Detoxificación de medicamentos y fármacos liposolubles.",
+        "c": "Digestión intracelular mediante hidrolasas ácidas.",
+        "d": "Síntesis de proteínas destinadas a secreción, lisosomas o incorporación a membranas."
+      },
+      "correcta": "d",
+      "justificacion_correcta": "El RER presenta ribosomas asociados en su cara citosólica y sintetiza proteínas de exportación, lisosomales y transmembrana.",
+      "fuente": "3-Célula Eucariota.pdf, p. 61; genomasur.com, p. 22"
+    },
+    {
+      "id": "celula-eucariota-004",
+      "subtema": "Sistema de endomembranas",
+      "dificultad": "media",
+      "pregunta": "¿Qué organela del sistema de endomembranas participa activamente en la síntesis de lípidos y en la detoxificación celular?",
+      "opciones": {
+        "a": "Retículo endoplasmático liso (REL)",
+        "b": "Aparato de Golgi",
+        "c": "Peroxisoma",
+        "d": "Lisosoma"
+      },
+      "correcta": "a",
+      "justificacion_correcta": "El REL consiste en cisternas tubulares sin ribosomas y se especializa en la biosíntesis de lípidos (fosfolípidos, esteroides) y detoxificación.",
+      "fuente": "3-Célula Eucariota.pdf, p. 61; genomasur.com, p. 22"
+    },
+    {
+      "id": "celula-eucariota-005",
+      "subtema": "Sistema de endomembranas",
+      "dificultad": "media",
+      "pregunta": "El Aparato de Golgi cumple un rol fundamental en la célula eucariota al encargarse de:",
+      "opciones": {
+        "a": "Degradar el peróxido de hidrógeno liberando oxígeno libre.",
+        "b": "Recibir, modificar (glicosilar), empaquetar y distribuir proteínas y lípidos provenientes del RER y REL.",
+        "c": "Sintetizar la molécula de ATP mediante la cadena respiratoria.",
+        "d": "Duplicar el ADN durante la interfase del ciclo celular."
+      },
+      "correcta": "b",
+      "justificacion_correcta": "El complejo de Golgi procesa, modifica mediante glicosilación final y clasifica las macromoléculas para su envío a lisosomas, vesículas o secreción.",
+      "fuente": "3-Célula Eucariota.pdf, p. 63, 66; genomasur.com, p. 23"
+    },
+    {
+      "id": "celula-eucariota-006",
+      "subtema": "Sistema de endomembranas",
+      "dificultad": "media",
+      "pregunta": "¿Qué tipo de enzimas contienen los lisosomas para llevar a cabo la digestión de materiales exógenos u organelas envejecidas?",
+      "opciones": {
+        "a": "Catalasa y oxidasas",
+        "b": "ATP sintetasas de cresta",
+        "c": "ADN polimerasas y transcriptasas",
+        "d": "Hidrolasas ácidas (proteasas, lipasas, glicosidasas)"
+      },
+      "correcta": "d",
+      "justificacion_correcta": "Los lisosomas contienen enzimas hidrolíticas (hidrolasas ácidas) capaces de digerir macromoléculas, residuos endocitados u organelas (autofagia).",
+      "fuente": "3-Célula Eucariota.pdf, p. 64-65; genomasur.com, p. 23"
+    },
+    {
+      "id": "celula-eucariota-007",
+      "subtema": "Organelas no pertenecientes al sistema de endomembranas",
+      "dificultad": "media",
+      "pregunta": "¿Por qué las mitocondrias y los peroxisomas NO forman parte del sistema de endomembranas?",
+      "opciones": {
+        "a": "Porque se forman directamente en el nucleolo sin participación de proteínas.",
+        "b": "Porque carecen totalmente de membranas lipídicas.",
+        "c": "Porque no intercambian material vesicular directamente con el flujo endomembranoso (RER/REL/Golgi).",
+        "d": "Porque están formados exclusivamente por microfilamentos de actina."
+      },
+      "correcta": "c",
+      "justificacion_correcta": "Las mitocondrias y peroxisomas son organelas semiautónomas o independientes que no se originan ni se conectan por vesículas del sistema endomembranoso.",
+      "fuente": "3-Célula Eucariota.pdf, p. 60"
+    },
+    {
+      "id": "celula-eucariota-008",
+      "subtema": "Peroxisomas",
+      "dificultad": "media",
+      "pregunta": "¿Qué enzima principal poseen los peroxisomas para descomponer el peróxido de hidrógeno (H₂O₂), una sustancia tóxica resultante del metabolismo oxidativo?",
+      "opciones": {
+        "a": "Rubisco",
+        "b": "Histona H1",
+        "c": "Flipasa",
+        "d": "Catalasa"
+      },
+      "correcta": "d",
+      "justificacion_correcta": "Los peroxisomas contienen catalasa, la cual descompone el tóxico peróxido de hidrógeno en agua y oxígeno libre ($H_2O_2 \\rightarrow H_2O + 1/2 O_2$).",
+      "fuente": "3-Célula Eucariota.pdf, p. 71; genomasur.com, p. 24"
+    },
+    {
+      "id": "celula-eucariota-009",
+      "subtema": "Organelas energéticas",
+      "dificultad": "facil",
+      "pregunta": "La función principal de las mitocondrias en la célula eucariota es:",
+      "opciones": {
+        "a": "La fotosíntesis y fijación de dióxido de carbono.",
+        "b": "La producción de ribosomas 80S.",
+        "c": "La síntesis de pared celular de celulosa.",
+        "d": "La respiración celular aeróbica para la síntesis de ATP."
+      },
+      "correcta": "d",
+      "justificacion_correcta": "Las mitocondrias realizan la respiración celular (ciclo de Krebs y fosforilación oxidativa) generando ATP a partir de nutrientes y oxígeno.",
+      "fuente": "3-Célula Eucariota.pdf, p. 68; genomasur.com, p. 23"
+    },
+    {
+      "id": "celula-eucariota-010",
+      "subtema": "Citoesqueleto",
+      "dificultad": "facil",
+      "pregunta": "¿Cuáles son los tres componentes principales del citoesqueleto en las células eucariotas ordenados por diámetro de menor a mayor?",
+      "opciones": {
+        "a": "Filamentos de actina → Filamentos de tubulina → Cilios",
+        "b": "Microtúbulos (25 nm) → Filamentos intermedios (10 nm) → Microfilamentos (8 nm)",
+        "c": "Microfilamentos (8 nm) → Filamentos intermedios (10 nm) → Microtúbulos (25 nm)",
+        "d": "Centríolos → Cilios → Flagelos"
+      },
+      "correcta": "c",
+      "justificacion_correcta": "El citoesqueleto comprende microfilamentos de actina (8 nm), filamentos intermedios (10 nm) y microtúbulos de tubulina (25 nm).",
+      "fuente": "3-Célula Eucariota.pdf, p. 54; genomasur.com, p. 25"
+    },
+    {
+      "id": "celula-eucariota-011",
+      "subtema": "Citoesqueleto",
+      "dificultad": "dificil",
+      "pregunta": "¿Qué estructura celular animal está compuesta por 9 tripletes de microtúbulos con disposición 9+0 y actúa como centro organizador del huso mitótico?",
+      "opciones": {
+        "a": "Centrosoma / Centríolo",
+        "b": "Cilio o flagelo",
+        "c": "Plasmodesmo",
+        "d": "Cuerpo basal de cilio con estructura 9+2"
+      },
+      "correcta": "a",
+      "justificacion_correcta": "El centríolo está formado por 9 tripletes de microtúbulos perimetrales (patrón 9+0) y forma el centrosoma organizador de microtúbulos en células animales.",
+      "fuente": "3-Célula Eucariota.pdf, p. 56; genomasur.com, p. 25"
+    },
+    {
+      "id": "celula-eucariota-012",
+      "subtema": "Citoesqueleto",
+      "dificultad": "media",
+      "pregunta": "El axonema que constituye el cuerpo interno móvil de cilios y flagelos eucariotas presenta un patrón estructural de microtúbulos de tipo:",
+      "opciones": {
+        "a": "9 tripletes externos y 0 centrales (9+0)",
+        "b": "9 dobletes periféricos y 2 microtúbulos centrales (9+2)",
+        "c": "7 dobletes y 3 centrales (7+3)",
+        "d": "12 monómeros periféricos simples"
+      },
+      "correcta": "b",
+      "justificacion_correcta": "Los cilios y flagelos eucariotas presentan una estructura interna (axonema) de 9 dobletes de microtúbulos periféricos y 1 par central (9+2).",
+      "fuente": "3-Célula Eucariota.pdf, p. 57; genomasur.com, p. 25"
+    },
+    {
+      "id": "celula-eucariota-013",
+      "subtema": "Núcleo y material genético",
+      "dificultad": "facil",
+      "pregunta": "¿En qué región del núcleo eucariota se lleva a cabo la síntesis del ARN ribosómico y el ensamblaje de las subunidades ribosómicas?",
+      "opciones": {
+        "a": "Nucléolo",
+        "b": "Poro nuclear",
+        "c": "Lámina nuclear",
+        "d": "Heterocromatina inducible"
+      },
+      "correcta": "a",
+      "justificacion_correcta": "El nucléolo es la zona nuclear densa donde se transcribe el ARNr y se ensamblan las subunidades ribosómicas.",
+      "fuente": "3-Célula Eucariota.pdf, p. 73; genomasur.com, p. 20"
+    },
+    {
+      "id": "celula-eucariota-014",
+      "subtema": "Núcleo y material genético",
+      "dificultad": "media",
+      "pregunta": "La cromatina eucariota está constituida por la asociación del ADN con proteínas básicas denominadas:",
+      "opciones": {
+        "a": "Tubulinas",
+        "b": "Histonas",
+        "c": "Pilinas",
+        "d": "Porinas"
+      },
+      "correcta": "b",
+      "justificacion_correcta": "En la cromatina, el ADN está linealmente empaquetado enrollándose alrededor de octámeros de proteínas básicas llamadas histonas (formando nucleosomas).",
+      "fuente": "3-Célula Eucariota.pdf, p. 73; genomasur.com, p. 20"
+    },
+    {
+      "id": "celula-eucariota-015",
+      "subtema": "Célula vegetal",
+      "dificultad": "facil",
+      "pregunta": "¿Qué polisacárido estructural es el componente principal de la pared celular en las células vegetales?",
+      "opciones": {
+        "a": "Celulosa",
+        "b": "Quitina",
+        "c": "Peptidoglicano",
+        "d": "Glucógeno"
+      },
+      "correcta": "a",
+      "justificacion_correcta": "La pared celular vegetal está compuesta por microfibrillas de celulosa embebidas en una matriz de otros polisacáridos.",
+      "fuente": "3-Célula Eucariota.pdf, p. 76; genomasur.com, p. 28"
+    },
+    {
+      "id": "celula-eucariota-016",
+      "subtema": "Célula vegetal",
+      "dificultad": "media",
+      "pregunta": "Los canales citoplasmáticos que atraviesan la pared celular vegetal permitiendo la comunicación directa e intercambio entre células adyacentes son los:",
+      "opciones": {
+        "a": "Plasmodesmos",
+        "b": "Desmosomas",
+        "c": "Mesosomas",
+        "d": "Dictiosomas"
+      },
+      "correcta": "a",
+      "justificacion_correcta": "Las células vegetales se comunican a través de plasmodesmos, canales recubiertos de membrana que atraviesan las paredes celulares contiguas.",
+      "fuente": "3-Célula Eucariota.pdf, p. 77; genomasur.com, p. 30"
+    },
+    {
+      "id": "celula-eucariota-017",
+      "subtema": "Célula vegetal",
+      "dificultad": "media",
+      "pregunta": "La gran vacuola central de la célula vegetal madura está delimitada por una membrana especializada denominada:",
+      "opciones": {
+        "a": "Lámina media",
+        "b": "Glucocálix",
+        "c": "Tonoplasto",
+        "d": "Cresta mitocondrial"
+      },
+      "correcta": "c",
+      "justificacion_correcta": "La membrana selectiva que rodea la vacuola central en las células vegetales recibe el nombre de tonoplasto.",
+      "fuente": "3-Célula Eucariota.pdf, p. 81"
+    },
+    {
+      "id": "celula-eucariota-018",
+      "subtema": "Célula vegetal",
+      "dificultad": "media",
+      "pregunta": "¿Qué tipo de plástidos acumulan almidón como reserva alimenticia en órganos vegetales de almacenamiento como tubérculos?",
+      "opciones": {
+        "a": "Leucoplastos (o amiloplastos)",
+        "b": "Cromoplastos",
+        "c": "Cloroplastos",
+        "d": "Peroxisomas"
+      },
+      "correcta": "a",
+      "justificacion_correcta": "Los leucoplastos (y específicamente los amiloplastos) son plástidos incoloros especializados en almacenar reservas alimenticias como el almidón.",
+      "fuente": "3-Célula Eucariota.pdf, p. 78; genomasur.com, p. 30"
+    },
+    {
+      "id": "celula-eucariota-019",
+      "subtema": "Célula vegetal vs animal",
+      "dificultad": "dificil",
+      "pregunta": "A diferencia de las células animales, las células vegetales maduras se caracterizan por presentar:",
+      "opciones": {
+        "a": "Abundante colesterol en su membrana plasmática y centríolos bien desarrollados.",
+        "b": "Pared celular de celulosa, gran vacuola central, plástidos y ausencia de centríolos.",
+        "c": "Aparato de Golgi continuo único y ribosomas de tipo 70S exclusivamente.",
+        "d": "Lisosomas voluminosos con pH básico y nutrición heterótrofa."
+      },
+      "correcta": "b",
+      "justificacion_correcta": "Las células vegetales destacan por poseer pared celular de celulosa, plástidos, gran vacuola central y carecer de centríolos y colesterol membranoso.",
+      "fuente": "3-Célula Eucariota.pdf, p. 84-85; genomasur.com, p. 28"
+    },
+    {
+      "id": "celula-eucariota-020",
+      "subtema": "Ribosomas eucariotas",
+      "dificultad": "facil",
+      "pregunta": "¿Qué coeficiente de sedimentación presentan los ribosomas citoplasmáticos en las células eucariotas?",
+      "opciones": {
+        "a": "70S",
+        "b": "50S",
+        "c": "80S",
+        "d": "100S"
+      },
+      "correcta": "c",
+      "justificacion_correcta": "Los ribosomas del citosol de células eucariotas son de tipo 80S, formados por las subunidades 60S y 40S.",
+      "fuente": "3-Célula Eucariota.pdf, p. 62; genomasur.com, p. 24"
+    },
+    {
+      "id": "celula-eucariota-021",
+      "subtema": "Ribosomas eucariotas",
+      "dificultad": "media",
+      "pregunta": "Las proteínas destinadas a permanecer en el citosol o ingresar al núcleo y mitocondrias son sintetizadas por:",
+      "opciones": {
+        "a": "Ribosomas adheridos a la membrana del RER.",
+        "b": "Las hidrolasas del lisosoma.",
+        "c": "El complejo de Golgi.",
+        "d": "Ribosomas libres en el citosol."
+      },
+      "correcta": "d",
+      "justificacion_correcta": "Los ribosomas libres en el citosol traducen las proteínas solubles destinadas al citoplasma, núcleo, peroxisomas y mitocondrias.",
+      "fuente": "3-Célula Eucariota.pdf, p. 62"
+    },
+    {
+      "id": "celula-eucariota-022",
+      "subtema": "Cloroplastos",
+      "dificultad": "media",
+      "pregunta": "Dentro del cloroplasto, los sacos membranosos aplanados donde se ubica la clorofila para captar la luz solar se denominan:",
+      "opciones": {
+        "a": "Crestas",
+        "b": "Dictiosomas",
+        "c": "Estroma",
+        "d": "Tilacoides"
+      },
+      "correcta": "d",
+      "justificacion_correcta": "Los tilacoides son vesículas membranosas aplanadas dentro del cloroplasto que albergan los fotosistemas con clorofila.",
+      "fuente": "3-Célula Eucariota.pdf, p. 79; genomasur.com, p. 27"
+    },
+    {
+      "id": "celula-eucariota-023",
+      "subtema": "Citosol",
+      "dificultad": "facil",
+      "pregunta": "El medio acuoso del citoplasma con consistencia de gel donde se hallan disueltos iones, pequeñas moléculas y enzimas metabólicas se denomina:",
+      "opciones": {
+        "a": "Estroma",
+        "b": "Citosol o matriz citoplasmática",
+        "c": "Líquido periplásmico",
+        "d": "Nucleoplasma"
+      },
+      "correcta": "b",
+      "justificacion_correcta": "El citosol es la fracción fluida o gelificada del citoplasma en la que se suspenden las organelas y ocurren vías metabólicas solubles.",
+      "fuente": "3-Célula Eucariota.pdf, p. 53"
+    },
+    {
+      "id": "celula-eucariota-024",
+      "subtema": "Aparato de Golgi vegetal",
+      "dificultad": "media",
+      "pregunta": "En las células vegetales, el Aparato de Golgi se caracteriza por presentarse:",
+      "opciones": {
+        "a": "Como una única estructura yuxtanuclear rígida unida al centrosoma.",
+        "b": "Ausente, siendo reemplazado totalmente por la pared celular.",
+        "c": "Fragmentado en múltiples dictiosomas o golgisomas dispersos en el citoplasma.",
+        "d": "Empaquetado dentro de la vacuola central."
+      },
+      "correcta": "c",
+      "justificacion_correcta": "En células vegetales, el complejo de Golgi se encuentra fragmentado en dictiosomas individuales distribuidos por el citosol.",
+      "fuente": "3-Célula Eucariota.pdf, p. 83-84; genomasur.com, p. 30"
+    },
+    {
+      "id": "celula-eucariota-025",
+      "subtema": "Transporte de membrana",
+      "dificultad": "media",
+      "pregunta": "El movimiento aleatorio de fosfolípidos de una monocapa a la opuesta en la membrana plasmática (flip-flop) requiere la acción de enzimas llamadas:",
+      "opciones": {
+        "a": "Catalasas y oxidasas",
+        "b": "Flipasas y escramblasas",
+        "c": "Polimerasas y quinasas",
+        "d": "Peptidasas y proteasas"
+      },
+      "correcta": "b",
+      "justificacion_correcta": "El movimiento de flip-flop entre monocapas no es espontáneo y requiere catálisis enzimática mediante flipasas y escramblasas.",
+      "fuente": "3-Célula Eucariota.pdf, p. 47"
+    }
+  ]
+}

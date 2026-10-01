@@ -1,0 +1,22 @@
+{
+  "temas": [
+    {
+      "id": "categorias-seres-vivos",
+      "titulo": "Categorías de los seres vivos y niveles de organización",
+      "archivo": "tema_categorias-seres-vivos.json",
+      "cantidad_preguntas": 25
+    },
+    {
+      "id": "celula-procariota",
+      "titulo": "Célula procariota",
+      "archivo": "tema_celula-procariota.json",
+      "cantidad_preguntas": 25
+    },
+    {
+      "id": "celula-eucariota",
+      "titulo": "Célula eucariota",
+      "archivo": "tema_celula-eucariota.json",
+      "cantidad_preguntas": 25
+    }
+  ]
+}

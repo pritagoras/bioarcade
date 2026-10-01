@@ -1,0 +1,388 @@
+{
+  "tema": {
+    "id": "celula-procariota",
+    "titulo": "Célula procariota",
+    "descripcion": "Cubre la estructura bacteriana, pared celular Gram positiva y Gram negativa, genoma bacteriano, plásmidos, reproducción por fisión binaria, mecanismos de transferencia genética y resistencia a antibióticos.",
+    "fuentes": [
+      "2-Célula Procariota.pdf",
+      "genomasur.com-Introducción al estudio de la célula.pdf"
+    ]
+  },
+  "preguntas": [
+    {
+      "id": "celula-procariota-001",
+      "subtema": "Estructura bacteriana",
+      "dificultad": "facil",
+      "pregunta": "¿Cuál de las siguientes estructuras está presente de manera constante e indispensable en TODAS las células procariotas?",
+      "opciones": {
+        "a": "Cápsula de polisacáridos",
+        "b": "Pili sexuales",
+        "c": "Ribosomas 70S",
+        "d": "Flagelo bacteriano"
+      },
+      "correcta": "c",
+      "justificacion_correcta": "Los ribosomas 70S, la membrana plasmática, el nucleoide y el citosol son estructuras constantes indispensables en toda bacteria.",
+      "fuente": "2-Célula Procariota.pdf, p. 41; genomasur.com, p. 11-13"
+    },
+    {
+      "id": "celula-procariota-002",
+      "subtema": "Pared celular",
+      "dificultad": "media",
+      "pregunta": "El componente macromolecular exclusivo y característico de la pared celular bacteriana (mureína) es el:",
+      "opciones": {
+        "a": "Glucógeno",
+        "b": "Lipopolisacárido",
+        "c": "Colesterol",
+        "d": "Peptidoglicano"
+      },
+      "correcta": "d",
+      "justificacion_correcta": "El peptidoglicano o mureína es un polímero exclusivo de procariotas constituido por azúcares alternados (NAG y NAM) y enlaces tetrapéptidos.",
+      "fuente": "2-Célula Procariota.pdf, p. 20-21; genomasur.com, p. 17"
+    },
+    {
+      "id": "celula-procariota-003",
+      "subtema": "Pared celular",
+      "dificultad": "dificil",
+      "pregunta": "En la tinción de Gram, las bacterias Grampositivas se tiñen de color violeta porque:",
+      "opciones": {
+        "a": "Su membrana externa de lipopolisacáridos atrapa la safranina decolorada.",
+        "b": "Poseen una gruesa capa de peptidoglicano que retiene el complejo cristal violeta-lugol tras el lavado con alcohol-acetona.",
+        "c": "Carecen de mureína en la pared celular y absorben el colorante en los esteroles.",
+        "d": "Tienen porinas en la pared que bombean activamente la safranina al citoplasma."
+      },
+      "correcta": "b",
+      "justificacion_correcta": "La pared gruesa de peptidoglicano en Grampositivas retiene el cristal violeta unido al lugol impidiendo su decoloración con alcohol-acetona.",
+      "fuente": "2-Célula Procariota.pdf, p. 20-22; genomasur.com, p. 16-17"
+    },
+    {
+      "id": "celula-procariota-004",
+      "subtema": "Pared celular",
+      "dificultad": "media",
+      "pregunta": "¿Qué estructura exclusiva de la pared celular de las bacterias Gramnegativas actúa como endotoxina tóxica para el ser humano?",
+      "opciones": {
+        "a": "Ácido teicoico",
+        "b": "Ácido lipoteicoico",
+        "c": "Lipopolisacárido (LPS) en la capa externa de la membrana externa",
+        "d": "Pilina en el pili sexual"
+      },
+      "correcta": "c",
+      "justificacion_correcta": "La hoja externa de la membrana externa de las bacterias Gramnegativas está compuesta por lipopolisacáridos (LPS), que actúan como potente endotoxina.",
+      "fuente": "genomasur.com-Introducción al estudio de la célula.pdf, p. 18"
+    },
+    {
+      "id": "celula-procariota-005",
+      "subtema": "Pared celular",
+      "dificultad": "facil",
+      "pregunta": "¿Qué grupo de procariotas se caracteriza por carecer totalmente de pared celular de peptidoglicano y contener esteroles en su membrana?",
+      "opciones": {
+        "a": "Cianobacterias",
+        "b": "Micoplasmas",
+        "c": "Escherichia coli",
+        "d": "Bacterias Grampositivas"
+      },
+      "correcta": "b",
+      "justificacion_correcta": "Los micoplasmas son procariotas que carecen de pared celular de peptidoglicano y poseen esteroles incorporados en su membrana plasmática.",
+      "fuente": "genomasur.com-Introducción al estudio de la célula.pdf, p. 13, 15"
+    },
+    {
+      "id": "celula-procariota-006",
+      "subtema": "Membrana plasmática y diferenciaciones",
+      "dificultad": "media",
+      "pregunta": "En las bacterias autótrofas fotosintéticas como las cianobacterias, los pigmentos y enzimas fotosintéticos se localizan en:",
+      "opciones": {
+        "a": "Los cloroplastos rodeados por doble membrana.",
+        "b": "La cápsula viscosa externa.",
+        "c": "Los plásmidos libres en el nucleoide.",
+        "d": "Las laminillas fotosintéticas derivadas de invaginaciones de la membrana plasmática."
+      },
+      "correcta": "d",
+      "justificacion_correcta": "Las cianobacterias carecen de organelas membranosas; por ello, alojan sus pigmentos fotosintéticos (como la clorofila a) en laminillas fotosintéticas o membranas internas.",
+      "fuente": "2-Célula Procariota.pdf, p. 25, 27; genomasur.com, p. 15"
+    },
+    {
+      "id": "celula-procariota-007",
+      "subtema": "Membrana plasmática y diferenciaciones",
+      "dificultad": "media",
+      "pregunta": "¿Qué invaginación de la membrana plasmática procariota sirve de sitio de anclaje para el cromosoma bacteriano durante su replicación?",
+      "opciones": {
+        "a": "Pili sexual",
+        "b": "Mesosoma",
+        "c": "Porina",
+        "d": "Periplasma"
+      },
+      "correcta": "b",
+      "justificacion_correcta": "El mesosoma es un pliegue invaginado de la membrana plasmática procariota al cual se halla anclado el cromosoma bacteriano.",
+      "fuente": "2-Célula Procariota.pdf, p. 25-26, 41"
+    },
+    {
+      "id": "celula-procariota-008",
+      "subtema": "Material genético bacteriano",
+      "dificultad": "facil",
+      "pregunta": "El cromosoma bacteriano principal se caracteriza por ser una molécula de ADN:",
+      "opciones": {
+        "a": "Lineal e híperasociada a histonas en un núcleo delimitado.",
+        "b": "Circular y protegida por una cubierta lipídica propia.",
+        "c": "Monocatenaria, fragmentada y contenida dentro del nucleolo.",
+        "d": "Circular, desnuda (sin histonas) y ubicada en la región del nucleoide."
+      },
+      "correcta": "d",
+      "justificacion_correcta": "El cromosoma bacteriano único consiste en una molécula de ADN bicatenario circular y desnudo (no asociado a histonas) ubicado en el nucleoide.",
+      "fuente": "2-Célula Procariota.pdf, p. 32; genomasur.com, p. 13"
+    },
+    {
+      "id": "celula-procariota-009",
+      "subtema": "Plásmidos",
+      "dificultad": "media",
+      "pregunta": "¿Qué es un plásmido en una célula bacteriana?",
+      "opciones": {
+        "a": "Una vesícula membranosa rica en enzimas hidrolíticas digestivas.",
+        "b": "Una molécula de ADN extracromosómico circular que se replica de manera autónoma.",
+        "c": "Un complejo ribosómico 80S ubicado en el mesosoma.",
+        "d": "Una proteína helicoidal que forma el eje del flagelo."
+      },
+      "correcta": "b",
+      "justificacion_correcta": "Un plásmido es una molécula de ADN extracromosómico, pequeño y circular, capaz de replicarse independientemente del cromosoma principal.",
+      "fuente": "2-Célula Procariota.pdf, p. 33; genomasur.com, p. 15"
+    },
+    {
+      "id": "celula-procariota-010",
+      "subtema": "Transferencia genética",
+      "dificultad": "dificil",
+      "pregunta": "El proceso de transferencia directa de un plásmido (como el factor F) desde una bacteria donante (F⁺) a una receptora (F⁻) a través de un pili sexual se denomina:",
+      "opciones": {
+        "a": "Conjugación",
+        "b": "Transducción",
+        "c": "Transformación",
+        "d": "Fisión binaria"
+      },
+      "correcta": "a",
+      "justificacion_correcta": "La conjugación es el mecanismo de transferencia horizontal de material genético (plásmidos) mediante contacto directo mediado por el pili sexual.",
+      "fuente": "2-Célula Procariota.pdf, p. 37-39; genomasur.com, p. 15"
+    },
+    {
+      "id": "celula-procariota-011",
+      "subtema": "Transferencia genética",
+      "dificultad": "dificil",
+      "pregunta": "La captación e incorporación e integración directa de fragmentos de ADN libre del medio extracelular por parte de una bacteria competente se conoce como:",
+      "opciones": {
+        "a": "Conjugación",
+        "b": "Transducción",
+        "c": "Transformación",
+        "d": "Amitosis"
+      },
+      "correcta": "c",
+      "justificacion_correcta": "La transformación consiste en la absorción citoplasmática de fragmentos de ADN desnudo o libre presente en el medio ambiente proveniente de bacterias lisadas.",
+      "fuente": "2-Célula Procariota.pdf, p. 39"
+    },
+    {
+      "id": "celula-procariota-012",
+      "subtema": "Transferencia genética",
+      "dificultad": "dificil",
+      "pregunta": "Cuando la transferencia de genes bacterianos de una célula a otra es mediada por un virus bacteriófago que actúa como vector, el proceso se denomina:",
+      "opciones": {
+        "a": "Transducción",
+        "b": "Transformación",
+        "c": "Conjugación",
+        "d": "Replicación"
+      },
+      "correcta": "a",
+      "justificacion_correcta": "La transducción es el pasaje de ADN de una bacteria a otra transportado accidentalmente en el interior de la cápside de un bacteriófago.",
+      "fuente": "2-Célula Procariota.pdf, p. 39; genomasur.com, p. 36"
+    },
+    {
+      "id": "celula-procariota-013",
+      "subtema": "Reproducción bacteriana",
+      "dificultad": "facil",
+      "pregunta": "El mecanismo asexuado de división celular en las bacterias, que genera dos células hijas genéticamente idénticas, se denomina:",
+      "opciones": {
+        "a": "Fisión binaria",
+        "b": "Mitosis ecuacional",
+        "c": "Meiosis",
+        "d": "Esporulación meiótica"
+      },
+      "correcta": "a",
+      "justificacion_correcta": "Las bacterias se reproducen asexualmente por fisión binaria (o amitosis), duplicando previamente su único cromosoma para distribuirlo equitativamente.",
+      "fuente": "2-Célula Procariota.pdf, p. 40; genomasur.com, p. 14"
+    },
+    {
+      "id": "celula-procariota-014",
+      "subtema": "Estructuras apendiculares",
+      "dificultad": "media",
+      "pregunta": "¿Qué proteína globular constituye la estructura helicoidal del flagelo bacteriano responsable de la locomoción celular?",
+      "opciones": {
+        "a": "Flagelina",
+        "b": "Tubulina",
+        "c": "Pilina",
+        "d": "Actina"
+      },
+      "correcta": "a",
+      "justificacion_correcta": "El flagelo procariota está compuesto por subunidades de la proteína flagelina, formando un filamento rígido sin disposición de microtúbulos.",
+      "fuente": "2-Célula Procariota.pdf, p. 19, 41"
+    },
+    {
+      "id": "celula-procariota-015",
+      "subtema": "Resistencia a antibióticos",
+      "dificultad": "media",
+      "pregunta": "Los antibióticos como la penicilina y sus derivados ejercen su efecto bactericida inhibiendo específicamente:",
+      "opciones": {
+        "a": "La síntesis de proteínas en los ribosomas 70S.",
+        "b": "La replicación del ADN mediada por la ADN girasa.",
+        "c": "La síntesis de la pared celular bacteriana de peptidoglicano.",
+        "d": "La transcripción del ARNm por la ARN polimerasa."
+      },
+      "correcta": "c",
+      "justificacion_correcta": "La penicilina bloquea la síntesis de la pared celular de peptidoglicano, provocando la lisis osmótica de la bacteria en crecimiento.",
+      "fuente": "2-Célula Procariota.pdf, p. 34; genomasur.com, p. 15, 17"
+    },
+    {
+      "id": "celula-procariota-016",
+      "subtema": "Resistencia a antibióticos",
+      "dificultad": "media",
+      "pregunta": "Bacterias portadoras del enzima β-lactamasa pueden inactivar penicilinas. Este mecanismo de resistencia bacteriana se clasifica como:",
+      "opciones": {
+        "a": "Bomba de eflujo activo",
+        "b": "Modificación del sitio blanco",
+        "c": "Inactivación enzimática del antibiótico",
+        "d": "Disminución de la permeabilidad de porinas"
+      },
+      "correcta": "c",
+      "justificacion_correcta": "La producción de β-lactamasas es un ejemplo clásico de inactivación enzimática que destruye la molécula del antibiótico antes de que actúe.",
+      "fuente": "2-Célula Procariota.pdf, p. 34"
+    },
+    {
+      "id": "celula-procariota-017",
+      "subtema": "Ribosomas procariotas",
+      "dificultad": "facil",
+      "pregunta": "¿Cuál es el coeficiente de sedimentación característico de los ribosomas presentes en el citoplasma de las bacterias?",
+      "opciones": {
+        "a": "80S",
+        "b": "70S",
+        "c": "60S",
+        "d": "50S"
+      },
+      "correcta": "b",
+      "justificacion_correcta": "Los ribosomas procariotas son de tipo 70S, integrados por dos subunidades (50S mayor y 30S menor).",
+      "fuente": "2-Célula Procariota.pdf, p. 30; genomasur.com, p. 13"
+    },
+    {
+      "id": "celula-procariota-018",
+      "subtema": "Estructuras externas",
+      "dificultad": "media",
+      "pregunta": "La cápsula bacteriana es una cubierta viscosa exterior formada habitualmente por polímeros de azúcares cuya función principal es:",
+      "opciones": {
+        "a": "Realizar la fotofosforilación oxidativa aeróbica.",
+        "b": "Proporcionar adhesión a sustratos y proteger contra la fagocitosis del sistema inmune.",
+        "c": "Facilitar la locomoción en medios líquidos densos.",
+        "d": "Sintetizar la cadena de nucleótidos del plásmido R."
+      },
+      "correcta": "b",
+      "justificacion_correcta": "La cápsula confiere capacidad de adherencia a superficies/epitelios y protege a la bacteria de la fagocitosis y defensas del huésped.",
+      "fuente": "2-Célula Procariota.pdf, p. 17-18; genomasur.com, p. 18-19"
+    },
+    {
+      "id": "celula-procariota-019",
+      "subtema": "Citosol bacteriano",
+      "dificultad": "facil",
+      "pregunta": "A diferencia del citoplasma eucariota, el citoplasma de una célula procariota se caracteriza por:",
+      "opciones": {
+        "a": "Estar dividida en compartimentos por membranas internas de retículo.",
+        "b": "Poseer microtúbulos de tubulina que forman un aparato mitótico astral.",
+        "c": "Carecer de compartimentalización membranosa y estar en contacto directo con el ADN.",
+        "d": "Presentar lisosomas y peroxisomas dispersos en el citosol."
+      },
+      "correcta": "c",
+      "justificacion_correcta": "El citoplasma procariota no posee endomembranas ni compartimentos cerrados; la matriz acuosa está en contacto directo con el ADN en el nucleoide.",
+      "fuente": "2-Célula Procariota.pdf, p. 29"
+    },
+    {
+      "id": "celula-procariota-020",
+      "subtema": "Pared celular Grampositiva",
+      "dificultad": "dificil",
+      "pregunta": "¿Qué polímeros carboxilados o fosfatados están presentes exclusivamente en la pared de bacterias Grampositivas actuando como determinantes antigénicos principales?",
+      "opciones": {
+        "a": "Porinas",
+        "b": "Biolípidos con enlaces éter",
+        "c": "Lipopolisacáridos (LPS)",
+        "d": "Ácidos teicoicos y lipoteicoicos"
+      },
+      "correcta": "d",
+      "justificacion_correcta": "Los ácidos teicoicos y lipoteicoicos se encuentran en la pared gruesa de peptidoglicano de Grampositivas y definen su especificidad inmunológica.",
+      "fuente": "genomasur.com-Introducción al estudio de la célula.pdf, p. 17"
+    },
+    {
+      "id": "celula-procariota-021",
+      "subtema": "Estructuras apendiculares",
+      "dificultad": "media",
+      "pregunta": "Las proyecciones proteicas rígidas y cortas formadas por pilina en la superficie de la bacteria que cumplen función de fijación a superficies se denominan:",
+      "opciones": {
+        "a": "Flagelos",
+        "b": "Cilios",
+        "c": "Pili o fimbrias",
+        "d": "Pseudópodos"
+      },
+      "correcta": "c",
+      "justificacion_correcta": "Los pili (o fimbrias) son apéndices formados por pilina que intervienen en la adhesión celular a tejidos o sustratos.",
+      "fuente": "2-Célula Procariota.pdf, p. 19, 41"
+    },
+    {
+      "id": "celula-procariota-022",
+      "subtema": "Intercambio genético",
+      "dificultad": "media",
+      "pregunta": "¿Qué tipo de plásmido porta los genes que confieren resistencia a múltiples antibióticos en bacterias?",
+      "opciones": {
+        "a": "Plásmido F (Factor sexual)",
+        "b": "Transposón de transposición replicativa",
+        "c": "Profago atenuado",
+        "d": "Plásmido R"
+      },
+      "correcta": "d",
+      "justificacion_correcta": "Los plásmidos R contienen genes que codifican mecanismos de resistencia frente a diversos antibióticos.",
+      "fuente": "2-Célula Procariota.pdf, p. 33; genomasur.com, p. 15"
+    },
+    {
+      "id": "celula-procariota-023",
+      "subtema": "Elementos móviles",
+      "dificultad": "dificil",
+      "pregunta": "Los fragmentos de ADN capaces de moverse de una posición a otra dentro del genoma bacteriano catalizados por la enzima transposasa se denominan:",
+      "opciones": {
+        "a": "Transposones",
+        "b": "Mesosomas",
+        "c": "Microsomas",
+        "d": "Dictiosomas"
+      },
+      "correcta": "a",
+      "justificacion_correcta": "Los transposones son elementos genéticos móviles que pueden cambiar de ubicación en el genoma y causar mutaciones.",
+      "fuente": "genomasur.com-Introducción al estudio de la célula.pdf, p. 15-16"
+    },
+    {
+      "id": "celula-procariota-024",
+      "subtema": "Resistencia a antibióticos",
+      "dificultad": "facil",
+      "pregunta": "¿Cuál de las siguientes conductas promueve el desarrollo y diseminación de cepas bacterianas superresistentes a los antibióticos?",
+      "opciones": {
+        "a": "Completar estrictamente la duración del tratamiento prescrito.",
+        "b": "Identificar el agente infeccioso mediante cultivos microbiológicos previas decisiones médicas.",
+        "c": "Realizar lavado frecuente de manos e inmunización con vacunas.",
+        "d": "Administrar antibióticos para tratar infecciones virales como la gripe."
+      },
+      "correcta": "d",
+      "justificacion_correcta": "El uso inadecuado de antibióticos para tratar patologías virales favorece la selección y proliferación de cepas resistentes.",
+      "fuente": "2-Célula Procariota.pdf, p. 36"
+    },
+    {
+      "id": "celula-procariota-025",
+      "subtema": "Tinción de Gram",
+      "dificultad": "media",
+      "pregunta": "En el protocolo de tinción de Gram, el reactivo utilizado como mordiente para fijar el colorante cristal violeta a la mureína es:",
+      "opciones": {
+        "a": "Lugol (solución yodo-yodurada)",
+        "b": "Alcohol-acetona",
+        "c": "Safranina",
+        "d": "Agua destilada"
+      },
+      "correcta": "a",
+      "justificacion_correcta": "El lugol actúa como mordiente formando un complejo insoluble con el cristal violeta dentro de la pared de peptidoglicano.",
+      "fuente": "2-Célula Procariota.pdf, p. 21"
+    }
+  ]
+}
