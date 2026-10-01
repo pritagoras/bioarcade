@@ -1,0 +1,253 @@
+{
+  "tema": {
+    "id": "caracteristicas-y-estructura-viral",
+    "titulo": "Características Generales y Estructura Viral",
+    "descripcion": "Estructura, composición, niveles de organización, simetría y criterios de clasificación de las partículas virales.",
+    "fuentes": [
+      "4-Virus, viroides y priones.pdf",
+      "genomasur.com-Introducción al estudio de la célula.pdf"
+    ]
+  },
+  "preguntas": [
+    {
+      "id": "caracteristicas-y-estructura-viral-001",
+      "subtema": "Nivel de organización",
+      "dificultad": "facil",
+      "pregunta": "¿En qué nivel de organización macromolecular o prebiótico se ubican los virus en comparación con las células?",
+      "opciones": {
+        "a": "Nivel prebiótico o supramacromolecular.",
+        "b": "Nivel celular simple.",
+        "c": "Nivel tisular primario.",
+        "d": "Nivel organelar membranoso."
+      },
+      "correcta": "a",
+      "justificacion_correcta": "Los virus no son células y su nivel de organización es inferior al celular, ubicándose en el nivel prebiótico o supramacromolecular formado por el ensamblaje de macromoléculas.",
+      "fuente": "4-Virus, viroides y priones.pdf, p. 2; genomasur.com-Introducción al estudio de la célula.pdf, p. 4"
+    },
+    {
+      "id": "caracteristicas-y-estructura-viral-002",
+      "subtema": "Definición y parasitismo",
+      "dificultad": "facil",
+      "pregunta": "¿Por qué se clasifica a los virus como parásitos intracelulares obligados?",
+      "opciones": {
+        "a": "Porque realizan fotosíntesis únicamente cuando ingresan al citoplasma de bacterias.",
+        "b": "Porque carecen de metabolismo propio y dependen completamente de la maquinaria celular para reproducirse.",
+        "c": "Porque se reproducen por fisión binaria fuera de las células hospedadoras.",
+        "d": "Porque digieren la membrana celular mediante enzimas respiratorias propias."
+      },
+      "correcta": "b",
+      "justificacion_correcta": "Los virus no poseen metabolismo ni fuentes de energía propias y dependen absolutamente de las células para sintetizar sus macromoléculas y replicarse.",
+      "fuente": "4-Virus, viroides y priones.pdf, p. 5; genomasur.com-Introducción al estudio de la célula.pdf, p. 31"
+    },
+    {
+      "id": "caracteristicas-y-estructura-viral-003",
+      "subtema": "Composición del genoma viral",
+      "dificultad": "facil",
+      "pregunta": "De acuerdo con el postulado de Lwoff, ¿qué característica fundamental presenta el material genético de un virión?",
+      "opciones": {
+        "a": "Contiene simultáneamente cadenas funcionales de ADN y ARN.",
+        "b": "Carece por completo de nucleótidos y solo presenta cadenas de aminoácidos.",
+        "c": "Posee exclusivamente un solo tipo de ácido nucleico, ya sea ADN o ARN.",
+        "d": "Está constituido únicamente por plásmidos circulares bacterianos."
+      },
+      "correcta": "c",
+      "justificacion_correcta": "El postulado de Lwoff establece que cada partícula viral elemental contiene solo un tipo de ácido nucleico, siendo un virus de ADN o un virus de ARN.",
+      "fuente": "4-Virus, viroides y priones.pdf, p. 8; genomasur.com-Introducción al estudio de la célula.pdf, p. 31"
+    },
+    {
+      "id": "caracteristicas-y-estructura-viral-004",
+      "subtema": "Estructura de la cápside",
+      "dificultad": "facil",
+      "pregunta": "¿Qué nombre reciben las unidades estructurales compuestas por proteínas que integran la cápside viral?",
+      "opciones": {
+        "a": "Peptidoglicanos.",
+        "b": "LPS.",
+        "c": "Espículas.",
+        "d": "Capsómeros."
+      },
+      "correcta": "d",
+      "justificacion_correcta": "La cápside es una cubierta proteica formada por subunidades repetitivas denominadas capsómeros.",
+      "fuente": "4-Virus, viroides y priones.pdf, p. 7-8; genomasur.com-Introducción al estudio de la célula.pdf, p. 33"
+    },
+    {
+      "id": "caracteristicas-y-estructura-viral-005",
+      "subtema": "Componentes de la nucleocápside",
+      "dificultad": "media",
+      "pregunta": "¿A qué se denomina nucleocápside en la arquitectura de una partícula viral?",
+      "opciones": {
+        "a": "Al conjunto integrado por el ácido nucleico y la cápside proteica que lo rodea.",
+        "b": "A la envoltura lipídica celular combinada con las glucoproteínas superficiales.",
+        "c": "A la cola contráctil que utilizan los fagos para atravesar paredes bacterianas.",
+        "d": "Al genoma viral una vez que se ha integrado al cromosoma celular."
+      },
+      "correcta": "a",
+      "justificacion_correcta": "La nucleocápside se define como la asociación directa entre el genoma (ácido nucleico) y la cápside proteica que lo protege.",
+      "fuente": "4-Virus, viroides y priones.pdf, p. 7; genomasur.com-Introducción al estudio de la célula.pdf, p. 33"
+    },
+    {
+      "id": "caracteristicas-y-estructura-viral-006",
+      "subtema": "Origen de la envoltura viral",
+      "dificultad": "media",
+      "pregunta": "¿De qué estructura celular proviene la envoltura membranosa presente en los virus envueltos?",
+      "opciones": {
+        "a": "De la pared de peptidoglicano sintetizada por la célula infectada.",
+        "b": "De la bicapa lipídica celular adquirida durante la brotación o salida.",
+        "c": "De la capa externa proteica del bacteriófago T4.",
+        "d": "De los ribosomas bacterianos ensamblados en el citoplasma."
+      },
+      "correcta": "b",
+      "justificacion_correcta": "La envoltura viral es una bicapa lipídica de origen celular que el virus adquiere al brotar a través de las membranas de la célula hospedadora.",
+      "fuente": "4-Virus, viroides y priones.pdf, p. 8; genomasur.com-Introducción al estudio de la célula.pdf, p. 31"
+    },
+    {
+      "id": "caracteristicas-y-estructura-viral-007",
+      "subtema": "Funciones de la cápside y envoltura",
+      "dificultad": "media",
+      "pregunta": "¿Cuáles son dos de las funciones biológicas principales de la cápside y la envoltura en las partículas virales?",
+      "opciones": {
+        "a": "Generar ATP celular y transcribir ARN ribosomal.",
+        "b": "Sintetizar aminoácidos esenciales y almacenar glucógeno.",
+        "c": "Proteger el genoma viral y reconocer la célula huésped mediante receptores.",
+        "d": "Permear toxinas exógenas y formar pseudópodos de movilidad."
+      },
+      "correcta": "c",
+      "justificacion_correcta": "Tanto la cápside como la envoltura protegen el ácido nucleico viral frente al medio y participan en el reconocimiento específico de la célula huésped.",
+      "fuente": "4-Virus, viroides y priones.pdf, p. 8"
+    },
+    {
+      "id": "caracteristicas-y-estructura-viral-008",
+      "subtema": "Simetría de la cápside",
+      "dificultad": "facil",
+      "pregunta": "¿Cuáles son los tipos de simetría estructural que puede presentar la cápside viral?",
+      "opciones": {
+        "a": "Bilateral, transversal y flagelar.",
+        "b": "Cilíndrica lineal, cúbica amorfa y plasmática.",
+        "c": "Esférica pura, biconcava y membranosa.",
+        "d": "Icosaédrica, helicoidal y compleja."
+      },
+      "correcta": "d",
+      "justificacion_correcta": "Las cápsides virales se clasifican según su simetría morfológica en icosaédrica, helicoidal y compleja (como la de los bacteriófagos).",
+      "fuente": "4-Virus, viroides y priones.pdf, p. 9"
+    },
+    {
+      "id": "caracteristicas-y-estructura-viral-009",
+      "subtema": "Criterios de clasificación viral",
+      "dificultad": "facil",
+      "pregunta": "¿Qué criterios se utilizan para clasificar a los virus?",
+      "opciones": {
+        "a": "Tipo de material genético, simetría de la cápside y presencia o ausencia de envoltura.",
+        "b": "Tamaño celular, presencia de mitocondrias y tipo de flagelo.",
+        "c": "Coloración de Gram, metabolismo fotosintético y movilidad celular.",
+        "d": "Número de núcleos, presencia de pared celular y síntesis de ATP."
+      },
+      "correcta": "a",
+      "justificacion_correcta": "La clasificación viral se basa en las características de su ácido nucleico, el tipo de simetría de la cápside y la existencia de una envoltura lipídica.",
+      "fuente": "4-Virus, viroides y priones.pdf, p. 10"
+    },
+    {
+      "id": "caracteristicas-y-estructura-viral-010",
+      "subtema": "Especificidad e infección",
+      "dificultad": "media",
+      "pregunta": "¿A qué se debe que un virus infecte únicamente a un grupo específico de células hospedadoras?",
+      "opciones": {
+        "a": "A que absorbe lípidos al azar de cualquier tipo de membrana biológica.",
+        "b": "A que reconoce y se une a receptores celulares específicos en la superficie de la célula.",
+        "c": "A que su genoma contiene enzimas digestivas de amplio espectro.",
+        "d": "A que puede replicarse activamente en el medio extracelular sin ayuda."
+      },
+      "correcta": "b",
+      "justificacion_correcta": "La especificidad viral está determinada por el reconocimiento molecular exacto entre proteínas o glucoproteínas del virus y los receptores de la célula huésped.",
+      "fuente": "4-Virus, viroides y priones.pdf, p. 5"
+    },
+    {
+      "id": "caracteristicas-y-estructura-viral-011",
+      "subtema": "Dimensiones y microscopía",
+      "dificultad": "media",
+      "pregunta": "¿En qué rango de tamaño promedio se sitúan los virus y qué instrumento se requiere para su visualización?",
+      "opciones": {
+        "a": "1 a 10 mm; utilizándose microscopio óptico común.",
+        "b": "100 a 500 µm; utilizándose lupa estereoscópica.",
+        "c": "20 a 300 nm; requiriéndose microscopio electrónico.",
+        "d": "1 a 5 cm; observándose a simple vista."
+      },
+      "correcta": "c",
+      "justificacion_correcta": "Los virus son partículas submicroscópicas con tamaños típicamente medidos en nanómetros (nm), por lo que se requiere un microscopio electrónico para resolverlos.",
+      "fuente": "4-Virus, viroides y priones.pdf, p. 6; genomasur.com-Introducción al estudio de la célula.pdf, p. 46"
+    },
+    {
+      "id": "caracteristicas-y-estructura-viral-012",
+      "subtema": "Polaridad del ARN viral",
+      "dificultad": "dificil",
+      "pregunta": "¿Qué significa que un virus de ARN monocatenario sea de 'cadena positiva' (+)?",
+      "opciones": {
+        "a": "Que sintetiza directamente moléculas de ADN bacteriano en el citosol.",
+        "b": "Que posee una carga eléctrica neta positiva debido a sus aminoácidos básicos.",
+        "c": "Que requiere obligatoriamente una transcriptasa inversa para actuar como molde de traducción.",
+        "d": "Que su genoma tiene la misma polaridad que un ARNm y puede ser traducido directamente por los ribosomas celulares."
+      },
+      "correcta": "d",
+      "justificacion_correcta": "Los virus de ARN (+) poseen un genoma monocatenario con el mismo sentido que el ARNm celular, lo que permite que actúe inmediatamente como molde directo de traducción.",
+      "fuente": "genomasur.com-Introducción al estudio de la célula.pdf, p. 34"
+    },
+    {
+      "id": "caracteristicas-y-estructura-viral-013",
+      "subtema": "Concepto de Virión",
+      "dificultad": "facil",
+      "pregunta": "¿Qué es un virión?",
+      "opciones": {
+        "a": "La partícula viral completa, madura e infecciosa adecuadamente ensamblada.",
+        "b": "El genoma viral una vez integrado de forma latente en el ADN celular.",
+        "c": "Un fragmento de ARN vegetal desnudo y circular.",
+        "d": "Una proteína priónica alterada con plegamiento en lámina beta."
+      },
+      "correcta": "a",
+      "justificacion_correcta": "Se denomina virión a la partícula viral estructuralmente completa, madura e infectiva capaz de sobrevivir fuera de la célula y provocar infección.",
+      "fuente": "4-Virus, viroides y priones.pdf, p. 17; genomasur.com-Introducción al estudio de la célula.pdf, p. 31"
+    },
+    {
+      "id": "caracteristicas-y-estructura-viral-014",
+      "subtema": "Infecciones no citocídicas",
+      "dificultad": "dificil",
+      "pregunta": "¿Cómo se diferencian las infecciones virales latentes de las infecciones crónicas?",
+      "opciones": {
+        "a": "En las latentes el virus lisa células constantemente, mientras que en las crónicas el virus desaparece para siempre.",
+        "b": "En las latentes el virus permanece no manifiesto y reactivable, mientras que en las crónicas se puede recuperar virión infeccioso en forma continua por períodos prolongados.",
+        "c": "En las latentes no hay genoma viral en la célula, mientras que en las crónicas solo existen priones.",
+        "d": "En las latentes solo se infectan bacterias, y en las crónicas únicamente plantas."
+      },
+      "correcta": "b",
+      "justificacion_correcta": "Las infecciones latentes se caracterizan por la permanencia del virus sin multiplicarse activamente hasta una reactivación, mientras que en las crónicas la producción viral es continua e identificable.",
+      "fuente": "genomasur.com-Introducción al estudio de la célula.pdf, p. 32-33"
+    },
+    {
+      "id": "caracteristicas-y-estructura-viral-015",
+      "subtema": "Experimento de Frenkel-Conrat y Singer",
+      "dificultad": "dificil",
+      "pregunta": "¿Qué demostró el histórico experimento de reconstitución en el Virus del Mosaico del Tabaco (VMT) realizado por Frenkel-Conrat y Singer?",
+      "opciones": {
+        "a": "Que las proteínas de la cápside determinan la herencia biológica del virus.",
+        "b": "Que los virus se originan espontáneamente a partir de urea 7M.",
+        "c": "Que el ARN es el portador de la información genética viral.",
+        "d": "Que la envoltura lipídica es indispensable para infectar plantas."
+      },
+      "correcta": "c",
+      "justificacion_correcta": "Al combinar ARN de una cepa de VMT con proteínas de otra, la progenie viral resultante presentó las características genéticas dictadas exclusivamente por la cepa donante del ARN.",
+      "fuente": "genomasur.com-Introducción al estudio de la célula.pdf, p. 40-41"
+    },
+    {
+      "id": "caracteristicas-y-estructura-viral-016",
+      "subtema": "Transducción viral",
+      "dificultad": "media",
+      "pregunta": "¿En qué consiste el fenómeno de transducción mediado por virus?",
+      "opciones": {
+        "a": "En el transporte pasivo de agua a través de porinas virales.",
+        "b": "En la degradación de lípidos de la membrana por enzimas del fago.",
+        "c": "En la transformación directa de un virus de ARN a un prion patógeno.",
+        "d": "En la transferencia de fragmentos de ADN celular entre bacterias utilizando un virus como vehículo."
+      },
+      "correcta": "d",
+      "justificacion_correcta": "La transducción ocurre cuando un fago empaqueta accidentalmente fragmentos de ADN de la célula hospedadora y los transfiere a otra bacteria al infectarla.",
+      "fuente": "genomasur.com-Introducción al estudio de la célula.pdf, p. 36"
+    }
+  ]
+}
