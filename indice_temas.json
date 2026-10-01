@@ -17,6 +17,36 @@
       "titulo": "Célula eucariota",
       "archivo": "tema_celula-eucariota.json",
       "cantidad_preguntas": 25
+    },
+    {
+      "id": "parcial-completo",
+      "titulo": "Parcial completo (banco de preguntas)",
+      "archivo": "tema_parcial-completo.json",
+      "cantidad_preguntas": 187
+    },
+    {
+      "id": "caracteristicas-y-estructura-viral",
+      "titulo": "Características Generales y Estructura Viral",
+      "archivo": "tema_caracteristicas-y-estructura-viral.json",
+      "cantidad_preguntas": 16
+    },
+    {
+      "id": "bacteriofagos-y-ciclos-de-infeccion",
+      "titulo": "Bacteriófagos y Ciclos de Infección",
+      "archivo": "tema_bacteriofagos-y-ciclos-de-infeccion.json",
+      "cantidad_preguntas": 16
+    },
+    {
+      "id": "virus-medicos-y-vacunas",
+      "titulo": "Virus de Importancia Médica y Vacunas",
+      "archivo": "tema_virus-medicos-y-vacunas.json",
+      "cantidad_preguntas": 16
+    },
+    {
+      "id": "viroides-y-priones",
+      "titulo": "Viroides y Priones",
+      "archivo": "tema_viroides-y-priones.json",
+      "cantidad_preguntas": 16
     }
   ]
 }
