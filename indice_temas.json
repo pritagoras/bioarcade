@@ -55,10 +55,28 @@
       "cantidad_preguntas": 50
     },
     {
+      "id": "lipidos",
+      "titulo": "Lípidos",
+      "archivo": "tema_lipidos.json",
+      "cantidad_preguntas": 30
+    },
+    {
+      "id": "nucleotidos",
+      "titulo": "Nucleótidos y Ácidos Nucleicos",
+      "archivo": "tema_nucleotidos.json",
+      "cantidad_preguntas": 30
+    },
+    {
+      "id": "proteinas",
+      "titulo": "Proteínas",
+      "archivo": "tema_proteinas.json",
+      "cantidad_preguntas": 30
+    },
+    {
       "id": "parcial-completo",
       "titulo": "Parcial completo (banco de preguntas)",
       "archivo": "tema_parcial-completo.json",
-      "cantidad_preguntas": 187
+      "cantidad_preguntas": 277
     }
   ]
 }
