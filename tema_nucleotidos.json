@@ -1,0 +1,462 @@
+{
+  "tema": {
+    "id": "nucleotidos",
+    "titulo": "Nucleótidos y Ácidos Nucleicos",
+    "descripcion": "Estructura de nucleótidos, intermediarios energéticos (ATP), coenzimas de transferencia, y propiedades del ADN y ARN.",
+    "fuentes": [
+      "8-Nucleotidos - ácidos nucleicos.pdf"
+    ]
+  },
+  "preguntas": [
+    {
+      "subtema": "Funciones de los nucleótidos",
+      "dificultad": "facil",
+      "pregunta": "¿Cuáles son las principales funciones biológicas descritas para los nucleótidos en la célula?",
+      "opciones": {
+        "a": "Actuar exclusivamente como enzimas catalizadoras de la síntesis proteica.",
+        "b": "Formar bicapas lipídicas impermeables y almacenar triglicéridos.",
+        "c": "Ser monómeros de ácidos nucleicos, intermediarios energéticos, coenzimas y mensajeros intracelulares.",
+        "d": "Sostener el calor corporal y brindar elasticidad al tejido conjuntivo."
+      },
+      "correcta": "c",
+      "justificacion_correcta": "Los nucleótidos desempeñan múltiples roles: son los bloques constitutivos del ADN y ARN, actúan en la transferencia energética (ATP), forman coenzimas (NAD+) y señales celulares (AMPc).",
+      "fuente": "8-Nucleotidos - ácidos nucleicos.pdf, p. 2",
+      "id": "nucleotidos-001"
+    },
+    {
+      "subtema": "Componentes de un nucleótido",
+      "dificultad": "facil",
+      "pregunta": "¿Cuáles son los tres componentes estructurales que integran un nucleótido?",
+      "opciones": {
+        "a": "Un ácido graso, un glicerol y un aminoácido.",
+        "b": "Un grupo fosfato, una pentosa y una base nitrogenada.",
+        "c": "Una hexosa, un grupo amino y un esfingol.",
+        "d": "Un grupo carboxilo, un carbono α y un radical R."
+      },
+      "correcta": "b",
+      "justificacion_correcta": "Un nucleótido está constituido por la unión de una base nitrogenada, un azúcar pentosa de cinco carbonos y uno o más grupos fosfato.",
+      "fuente": "8-Nucleotidos - ácidos nucleicos.pdf, p. 3",
+      "id": "nucleotidos-002"
+    },
+    {
+      "subtema": "Diferencia entre nucleósido y nucleótido",
+      "dificultad": "media",
+      "pregunta": "¿Qué estructura se forma mediante la combinación exclusiva de un azúcar pentosa y una base nitrogenada, sin grupos fosfato?",
+      "opciones": {
+        "a": "Nucleótido monofosfato",
+        "b": "Nucleósido",
+        "c": "Dinucleótido",
+        "d": "Pirofosfato"
+      },
+      "correcta": "b",
+      "justificacion_correcta": "Un nucleósido resulta de la unión covalente entre la pentosa y la base nitrogenada; cuando se le adiciona al menos un grupo fosfato pasa a ser un nucleótido.",
+      "fuente": "8-Nucleotidos - ácidos nucleicos.pdf, p. 4",
+      "id": "nucleotidos-003"
+    },
+    {
+      "subtema": "Enlaces dentro del nucleótido",
+      "dificultad": "media",
+      "pregunta": "¿Qué tipo de enlace covalente une a la base nitrogenada con el carbono 1' de la pentosa?",
+      "opciones": {
+        "a": "Enlace fosfodiéster",
+        "b": "Puente de hidrógeno",
+        "c": "Enlace éster de alta energía",
+        "d": "Enlace N-glicosídico"
+      },
+      "correcta": "d",
+      "justificacion_correcta": "La base nitrogenada se une al azúcar pentosa mediante un enlace covalente N-glicosídico entre el carbono anomérico y un nitrógeno de la base.",
+      "fuente": "8-Nucleotidos - ácidos nucleicos.pdf, p. 5",
+      "id": "nucleotidos-004"
+    },
+    {
+      "subtema": "Enlaces dentro del nucleótido",
+      "dificultad": "media",
+      "pregunta": "¿Cómo se denominan los enlaces que unen entre sí a los grupos fosfato segundo y tercero en un nucleótido trifosfato (como el ATP)?",
+      "opciones": {
+        "a": "Enlaces peptídicos",
+        "b": "Enlaces glucosídicos alfa (1→4)",
+        "c": "Enlaces anhídrido de alta energía",
+        "d": "Uniones iónicas reversibles"
+      },
+      "correcta": "c",
+      "justificacion_correcta": "Los grupos fosfato adicionales se enlazan mediante uniones anhídrido fosfórico, los cuales acumulan una gran cantidad de energía libre que se libera al hidrolizarse.",
+      "fuente": "8-Nucleotidos - ácidos nucleicos.pdf, p. 5, 15, 16",
+      "id": "nucleotidos-005"
+    },
+    {
+      "subtema": "Bases nitrogenadas",
+      "dificultad": "facil",
+      "pregunta": "¿Cuáles son las bases nitrogenadas clasificadas como purinas o púricas?",
+      "opciones": {
+        "a": "Adenina y guanina.",
+        "b": "Citosina, timina y uracilo.",
+        "c": "Adenina y citosina.",
+        "d": "Guanina y uracilo."
+      },
+      "correcta": "a",
+      "justificacion_correcta": "Las bases púricas poseen un anillo doble (núcleo de purina) e incluyen a la Adenina (A) y a la Guanina (G).",
+      "fuente": "8-Nucleotidos - ácidos nucleicos.pdf, p. 6",
+      "id": "nucleotidos-006"
+    },
+    {
+      "subtema": "Bases nitrogenadas",
+      "dificultad": "facil",
+      "pregunta": "¿Qué bases nitrogenadas se clasifican dentro de la familia de las pirimidinas o pirimidínicas?",
+      "opciones": {
+        "a": "Citosina, timina y uracilo.",
+        "b": "Adenina, guanina y uracilo.",
+        "c": "Adenina y timina.",
+        "d": "Guanina y citosina."
+      },
+      "correcta": "a",
+      "justificacion_correcta": "Las pirimidinas están formadas por un único anillo exagonal (núcleo de pirimidina) y comprenden a la Citosina (C), Timina (T) y Uracilo (U).",
+      "fuente": "8-Nucleotidos - ácidos nucleicos.pdf, p. 6, 8",
+      "id": "nucleotidos-007"
+    },
+    {
+      "subtema": "Pentosas de los ácidos nucleicos",
+      "dificultad": "media",
+      "pregunta": "¿En qué posición del anillo pentosa se diferencia la desoxirribosa de la ribosa por la ausencia de un grupo hidroxilo (-OH)?",
+      "opciones": {
+        "a": "En el carbono 1'.",
+        "b": "En el carbono 2'.",
+        "c": "En el carbono 3'.",
+        "d": "En el carbono 5'."
+      },
+      "correcta": "b",
+      "justificacion_correcta": "La desoxirribosa posee un átomo de H en el C2' en lugar del grupo -OH presente en el C2' de la ribosa.",
+      "fuente": "8-Nucleotidos - ácidos nucleicos.pdf, p. 7",
+      "id": "nucleotidos-008"
+    },
+    {
+      "subtema": "Nomenclatura de nucleótidos",
+      "dificultad": "media",
+      "pregunta": "¿Cómo se denomina el nucleósido formado por la unión de la base nitrogenada Adenina y el azúcar Ribosa?",
+      "opciones": {
+        "a": "Desoxiadenosina",
+        "b": "Adenosina",
+        "c": "Ácido adenílico",
+        "d": "Adenilato ciclasa"
+      },
+      "correcta": "b",
+      "justificacion_correcta": "La combinación de la purina Adenina con la pentosa Ribosa forma el nucleósido denominado Adenosina.",
+      "fuente": "8-Nucleotidos - ácidos nucleicos.pdf, p. 12",
+      "id": "nucleotidos-009"
+    },
+    {
+      "subtema": "Nomenclatura de nucleótidos",
+      "dificultad": "media",
+      "pregunta": "¿Cuál es la sigla correspondiente a un desoxirribonucleótido trifosfato que contiene la base Citosina?",
+      "opciones": {
+        "a": "CTP",
+        "b": "CMP",
+        "c": "d-CTP",
+        "d": "d-CDP"
+      },
+      "correcta": "c",
+      "justificacion_correcta": "Al estar constituido por desoxirribosa, tres fosfatos y citosina, la sigla estándar es d-CTP (desoxicitidina trifosfato).",
+      "fuente": "8-Nucleotidos - ácidos nucleicos.pdf, p. 13-14",
+      "id": "nucleotidos-010"
+    },
+    {
+      "subtema": "Función energética del ATP",
+      "dificultad": "media",
+      "pregunta": "¿Por qué la adición secuencial de grupos fosfato en el ATP requiere un gran insumo de energía?",
+      "opciones": {
+        "a": "Porque la ribosa rompe de forma espontánea el enlace N-glicosídico.",
+        "b": "Porque los grupos fosfato poseen cargas negativas que se repelen entre sí.",
+        "c": "Porque la base de adenina atrae protones solubles e inestabiliza la molécula.",
+        "d": "Porque se forman puentes disulfuro extremadamente rígidos."
+      },
+      "correcta": "b",
+      "justificacion_correcta": "A pH celular los grupos fosfato tienen carga negativa; vencer la repulsión electrostática entre ellos para formar el enlace anhídrido requiere mucha energía, la cual queda acumulada en el enlace.",
+      "fuente": "8-Nucleotidos - ácidos nucleicos.pdf, p. 16",
+      "id": "nucleotidos-011"
+    },
+    {
+      "subtema": "Ciclo ATP - ADP",
+      "dificultad": "facil",
+      "pregunta": "¿Qué proceso catabólico celular provee la energía necesaria para fosforilar el ADP y regenerar ATP ($ADP + P_i \rightarrow ATP$)?",
+      "opciones": {
+        "a": "Traducción de proteínas",
+        "b": "Ateroesclerosis",
+        "c": "Transcripción de ARN",
+        "d": "Respiración celular"
+      },
+      "correcta": "d",
+      "justificacion_correcta": "La energía extraída de la degradación metabólica de los nutrientes durante la respiración celular impulsa la fosforilación de ADP para formar ATP.",
+      "fuente": "8-Nucleotidos - ácidos nucleicos.pdf, p. 17",
+      "id": "nucleotidos-012"
+    },
+    {
+      "subtema": "Segundos mensajeros",
+      "dificultad": "media",
+      "pregunta": "¿Qué molécula señalizadora intracelular se sintetiza a partir del ATP por acción de la enzima adenilato ciclasa?",
+      "opciones": {
+        "a": "GTP",
+        "b": "NAD+",
+        "c": "FAD",
+        "d": "AMPc (AMP cíclico)"
+      },
+      "correcta": "d",
+      "justificacion_correcta": "La adenilato ciclasa transforma el ATP en AMPc (AMP cíclico) escindiendo un grupo pirofosfato; el AMPc actúa como un segundo mensajero clave.",
+      "fuente": "8-Nucleotidos - ácidos nucleicos.pdf, p. 18",
+      "id": "nucleotidos-013"
+    },
+    {
+      "subtema": "Coenzimas de transferencia de H⁺ y e⁻",
+      "dificultad": "media",
+      "pregunta": "Desde el punto de vista de su estructura química, ¿cómo se clasifican las coenzimas NAD⁺, NADP⁺ y FAD?",
+      "opciones": {
+        "a": "Proteínas oligoméricas",
+        "b": "Monosacáridos de reserva",
+        "c": "Dinucleótidos",
+        "d": "Lípidos anfipáticos"
+      },
+      "correcta": "c",
+      "justificacion_correcta": "NAD⁺, NADP⁺ y FAD son coenzimas dinucleotídicas que participan en reacciones metabólicas de óxido-reducción transportando hidrógenos y electrones.",
+      "fuente": "8-Nucleotidos - ácidos nucleicos.pdf, p. 19-21",
+      "id": "nucleotidos-014"
+    },
+    {
+      "subtema": "Reacciones de óxido-reducción",
+      "dificultad": "dificil",
+      "pregunta": "Cuando la coenzima oxidada NAD⁺ capta un protón y dos electrones ($H^+ + 2e^-$), ¿en qué forma reducida se convierte?",
+      "opciones": {
+        "a": "NADP⁺",
+        "b": "FADH₂",
+        "c": "NADH",
+        "d": "AMPc"
+      },
+      "correcta": "c",
+      "justificacion_correcta": "Al reducirse, el NAD⁺ acepta equivalente de reducción ($H^+ + 2e^-$) para transformarse en NADH.",
+      "fuente": "8-Nucleotidos - ácidos nucleicos.pdf, p. 20-21",
+      "id": "nucleotidos-015"
+    },
+    {
+      "subtema": "Síntesis de ácidos nucleicos",
+      "dificultad": "dificil",
+      "pregunta": "¿Cuáles son los sustratos precursores necesarios que se incorporan durante la polimerización de una cadena de ácido nucleico?",
+      "opciones": {
+        "a": "Nucleótidos monofosfato (NMP)",
+        "b": "Bases nitrogenadas aisladas",
+        "c": "Nucleósidos libres sin fosfato",
+        "d": "Nucleótidos trifosfato (NTP o dNTP)"
+      },
+      "correcta": "d",
+      "justificacion_correcta": "Los precursores que ingresan a la reacción de polimerización son nucleótidos trifosfato; la ruptura del grupo pirofosfato aporta la energía para formar el enlace fosfodiéster.",
+      "fuente": "8-Nucleotidos - ácidos nucleicos.pdf, p. 24-26",
+      "id": "nucleotidos-016"
+    },
+    {
+      "subtema": "Enlace entre monómeros",
+      "dificultad": "media",
+      "pregunta": "¿Qué tipo de enlace covalente conecta los monómeros de nucleótidos monofosfato a lo largo del esqueleto de un polinucleótido?",
+      "opciones": {
+        "a": "Puente fosfodiéster",
+        "b": "Enlace peptídico",
+        "c": "Puente de hidrógeno",
+        "d": "Enlace éster de colesterol"
+      },
+      "correcta": "a",
+      "justificacion_correcta": "El esqueleto covalente del ácido nucleico se forma mediante puentes fosfodiéster entre el grupo 3'-OH de una pentosa y el 5'-fosfato de la siguiente.",
+      "fuente": "8-Nucleotidos - ácidos nucleicos.pdf, p. 26-27",
+      "id": "nucleotidos-017"
+    },
+    {
+      "subtema": "Estructura del ARN",
+      "dificultad": "facil",
+      "pregunta": "¿Cuáles son las cuatro bases nitrogenadas presentes en las moléculas de ARN?",
+      "opciones": {
+        "a": "Adenina, Guanina, Citosina y Timina.",
+        "b": "Adenina, Guanina, Citosina y Uracilo.",
+        "c": "Adenina, Timina, Uracilo y Citosina.",
+        "d": "Guanina, Citosina, Timina y Desoxirribosa."
+      },
+      "correcta": "b",
+      "justificacion_correcta": "El ARN es un polímero de ribonucleótidos que contiene las bases A, G, C y Uracilo (U), careciendo de Timina.",
+      "fuente": "8-Nucleotidos - ácidos nucleicos.pdf, p. 27, 40",
+      "id": "nucleotidos-018"
+    },
+    {
+      "subtema": "Estructura del ADN",
+      "dificultad": "media",
+      "pregunta": "¿Cuáles son las características estructurales de las dos cadenas de la doble hélice de ADN según el modelo de Watson y Crick?",
+      "opciones": {
+        "a": "Paralelas y compuestas por ribonucleótidos.",
+        "b": "Covalentemente unidas por enlaces peptídicos entre sus bases.",
+        "c": "Antiparalelas, complementarias y unidas por puentes de hidrógeno entre bases.",
+        "d": "Completamente hidrofóbicas expuestas hacia el medio acuoso externo."
+      },
+      "correcta": "c",
+      "justificacion_correcta": "Las dos cadenas de desoxirribonucleótidos corren en direcciones opuestas (5'→3' y 3'→5', antiparalelas), son complementarias en sus bases y se enlazan mediante puentes de hidrógeno.",
+      "fuente": "8-Nucleotidos - ácidos nucleicos.pdf, p. 29-30, 39",
+      "id": "nucleotidos-019"
+    },
+    {
+      "subtema": "Reglas de Chargaff",
+      "dificultad": "media",
+      "pregunta": "¿Qué relación cuantitativa descubrió Erwin Chargaff en las muestras de ADN de diversas especies?",
+      "opciones": {
+        "a": "La cantidad de Adenina equivale a la de Timina y la de Citosina a la de Guanina ($A=T$ y $C=G$).",
+        "b": "La proporción de Guanina es siempre el doble que la de Citosina.",
+        "c": "La cantidad de Adenina es igual a la de Uracilo ($A = U$).",
+        "d": "Las pirimidinas superan siempre en un 50% a la suma de purinas."
+      },
+      "correcta": "a",
+      "justificacion_correcta": "Las reglas de Chargaff demostraron que $A=T$ y $C=G$, deduciéndose que la suma de purinas es igual a la suma de pirimidinas ($A+G = C+T$).",
+      "fuente": "8-Nucleotidos - ácidos nucleicos.pdf, p. 36",
+      "id": "nucleotidos-020"
+    },
+    {
+      "subtema": "Apareamiento complementario de bases",
+      "dificultad": "dificil",
+      "pregunta": "¿Cuántos puentes de hidrógeno específicos se establecen entre el par complementario Guanina y Citosina en el ADN?",
+      "opciones": {
+        "a": "1 puente de hidrógeno",
+        "b": "2 puentes de hidrógeno",
+        "c": "3 puentes de hidrógeno",
+        "d": "4 puentes de hidrógeno"
+      },
+      "correcta": "c",
+      "justificacion_correcta": "El par G≡C se estabiliza mediante 3 puentes de hidrógeno, a diferencia del par A=T que forma 2 puentes de hidrógeno.",
+      "fuente": "8-Nucleotidos - ácidos nucleicos.pdf, p. 31, 33",
+      "id": "nucleotidos-021"
+    },
+    {
+      "subtema": "Experimentos históricos - Griffith y Avery",
+      "dificultad": "dificil",
+      "pregunta": "¿Qué demostraron Oswald Avery y sus colaboradores en 1944 al continuar el experimento de transformación bacteriana de Griffith?",
+      "opciones": {
+        "a": "Que las proteínas constituyen el principio transformador genético.",
+        "b": "Que los virus bacteriófagos contienen azufre radiactivo en su interior.",
+        "c": "Que el ARN es una doble hélice dextrógira.",
+        "d": "Que el principio transformador capaz de modificar la cepa neumocócica es el ADN."
+      },
+      "correcta": "d",
+      "justificacion_correcta": "Avery demostró que el ADN aislado de la cepa virulenta (L) era la molécula responsable de transformar a las bacterias R, probando que el ADN es el material genético.",
+      "fuente": "8-Nucleotidos - ácidos nucleicos.pdf, p. 34",
+      "id": "nucleotidos-022"
+    },
+    {
+      "subtema": "Experimento de Hershey y Chase",
+      "dificultad": "dificil",
+      "pregunta": "En el experimento de Hershey y Chase (1952) con bacteriófagos, ¿por qué se utilizó fósforo radiactivo (³²P) para marcar el ADN y no las proteínas?",
+      "opciones": {
+        "a": "Porque el ADN posee grupos fosfato en su esqueleto y las proteínas carecen de fósforo.",
+        "b": "Porque las proteínas contienen aminoácidos ricos en fósforo y el ADN no.",
+        "c": "Porque el ³²P se une covalentemente a los puentes disulfuro de la cápside.",
+        "d": "Porque la desoxirribosa contiene fósforo en su carbono 2'."
+      },
+      "correcta": "a",
+      "justificacion_correcta": "El ADN se caracteriza por su esqueleto azúcar-fosfato (rico en fósforo), mientras que las proteínas contienen azufre (en cisteína/metionina) pero no fósforo.",
+      "fuente": "8-Nucleotidos - ácidos nucleicos.pdf, p. 35",
+      "id": "nucleotidos-023"
+    },
+    {
+      "subtema": "Geometría del ADN según Watson y Crick",
+      "dificultad": "dificil",
+      "pregunta": "De acuerdo con el modelo de Watson y Crick, ¿cómo se ubican espacialmente el esqueleto azúcar-fosfato y las bases nitrogenadas en la doble hélice?",
+      "opciones": {
+        "a": "Las bases apolares quedan expuestas al exterior acuoso y el esqueleto en el centro.",
+        "b": "El esqueleto forma una lámina β plana y las bases forman hélices α externas.",
+        "c": "Ambos componentes se intercalan al azar a lo largo del eje central.",
+        "d": "El esqueleto azúcar-fosfato (hidrofílico) se expone al exterior y las bases (hidrofóbicas) se ubican en el interior."
+      },
+      "correcta": "d",
+      "justificacion_correcta": "El esqueleto azúcar-fosfato es polar e hidrofílico por lo que se orienta hacia afuera en contacto con el agua, mientras que las bases apolares quedan en el centro protegido.",
+      "fuente": "8-Nucleotidos - ácidos nucleicos.pdf, p. 39",
+      "id": "nucleotidos-024"
+    },
+    {
+      "subtema": "Geometría del ADN según Watson y Crick",
+      "dificultad": "dificil",
+      "pregunta": "¿Cuántos pares de bases (pb) se requieren para completar un giro de $360^\\circ$ en la doble hélice de ADN (distancia de 34 Å)?",
+      "opciones": {
+        "a": "10 pares de bases",
+        "b": "5 pares de bases",
+        "c": "20 pares de bases",
+        "d": "100 pares de bases"
+      },
+      "correcta": "a",
+      "justificacion_correcta": "Cada par de bases dista 3,4 Å y gira 36º; por lo tanto, cada 10 pb (34 Å) la hélice completa un vuelta de 360º.",
+      "fuente": "8-Nucleotidos - ácidos nucleicos.pdf, p. 39",
+      "id": "nucleotidos-025"
+    },
+    {
+      "subtema": "Comparación ADN vs ARN",
+      "dificultad": "facil",
+      "pregunta": "¿Cuál de las siguientes combinaciones de azúcar y base es exclusiva del ARN?",
+      "opciones": {
+        "a": "Desoxirribosa y Timina",
+        "b": "Ribosa y Uracilo",
+        "c": "Desoxirribosa y Uracilo",
+        "d": "Ribosa y Timina"
+      },
+      "correcta": "b",
+      "justificacion_correcta": "El ARN contiene la pentosa Ribosa combinada con la pyrimidina Uracilo (en lugar de Timina).",
+      "fuente": "8-Nucleotidos - ácidos nucleicos.pdf, p. 7, 8, 40",
+      "id": "nucleotidos-026"
+    },
+    {
+      "subtema": "Cálculo según reglas de Chargaff",
+      "dificultad": "dificil",
+      "pregunta": "Si un fragmento de ADN bicatenario contiene un 20% de residuos de Adenina, ¿cuál será el porcentaje de Citosina presente?",
+      "opciones": {
+        "a": "20%",
+        "b": "60%",
+        "c": "40%",
+        "d": "30%"
+      },
+      "correcta": "d",
+      "justificacion_correcta": "Si A = 20%, por complementariedad T = 20% (A+T = 40%). El 60% restante corresponde a C + G. Dado que C = G, Citosina es el 30%.",
+      "fuente": "8-Nucleotidos - ácidos nucleicos.pdf, p. 36",
+      "id": "nucleotidos-027"
+    },
+    {
+      "subtema": "Apareamiento purina-pirimidina",
+      "dificultad": "dificil",
+      "pregunta": "¿Por qué el ancho constante de la doble hélice de ADN exige que una base púrica se aparee siempre con una base pirimídica?",
+      "opciones": {
+        "a": "Porque la unión de dos purinas o dos pirimidinas alteraría la distancia constante de 11 Å entre esqueletos.",
+        "b": "Porque las purinas forman enlaces peptídicos y las pirimidinas puentes disulfuro.",
+        "c": "Porque evita la replicación de la cadena antiparalela.",
+        "d": "Porque las pirimidinas carecen de nitrógeno en su estructura."
+      },
+      "correcta": "a",
+      "justificacion_correcta": "El par purina (anillo doble, ~7 Å) + pirimidina (anillo simple, ~4 Å) mantiene un diámetro constante (~11 Å) a lo largo de toda la hélice.",
+      "fuente": "8-Nucleotidos - ácidos nucleicos.pdf, p. 30",
+      "id": "nucleotidos-028"
+    },
+    {
+      "subtema": "Diferencia de reactividad coenzimática",
+      "dificultad": "media",
+      "pregunta": "¿Cuál es el rol de la coenzima FAD en las reacciones de óxido-reducción metabólicas?",
+      "opciones": {
+        "a": "Aceptar dos átomos completos de hidrógeno ($2H^+ + 2e^-$) para reducirse a $FADH_2$.",
+        "b": "Formar bicapas lípídicas de reserva en semillas.",
+        "c": "Liberar pirofosfato para sintetizar cadenas de ADN.",
+        "d": "Inactivar la transcriptasa inversa celular."
+      },
+      "correcta": "a",
+      "justificacion_correcta": "FAD en su forma oxidada capta $2H^+ + 2e^-$ convirtiéndose en la forma reducida $FADH_2$.",
+      "fuente": "8-Nucleotidos - ácidos nucleicos.pdf, p. 21",
+      "id": "nucleotidos-029"
+    },
+    {
+      "subtema": "Dirección de polimerización",
+      "dificultad": "media",
+      "pregunta": "¿En qué dirección de polaridad química se sintetizan siempre los polinucleótidos?",
+      "opciones": {
+        "a": "En dirección de 3' a 5'.",
+        "b": "De forma bidireccional aleatoria.",
+        "c": "En dirección de 5' a 3'.",
+        "d": "Desde el extremo C-terminal al N-terminal."
+      },
+      "correcta": "c",
+      "justificacion_correcta": "El nucleótido entrante se une siempre con su grupo 5'-fosfato al grupo 3'-OH libre del último nucleótido, alargando la cadena en dirección 5' → 3'.",
+      "fuente": "8-Nucleotidos - ácidos nucleicos.pdf, p. 25-27",
+      "id": "nucleotidos-030"
+    }
+  ]
+}

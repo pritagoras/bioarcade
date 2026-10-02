@@ -1,0 +1,462 @@
+{
+  "tema": {
+    "id": "lipidos",
+    "titulo": "Lípidos",
+    "descripcion": "Clasificación, estructura y propiedades de ácidos grasos, acilglicéridos, fosfolípidos, glucolípidos, esteroides y lipoproteínas.",
+    "fuentes": [
+      "7-Lípidos.pdf"
+    ]
+  },
+  "preguntas": [
+    {
+      "subtema": "Definición general de lípidos",
+      "dificultad": "facil",
+      "pregunta": "¿Cuál es el rasgo químico común que define al grupo heterogéneo de los lípidos?",
+      "opciones": {
+        "a": "Ser solubles en agua y formar polímeros lineales de elevado peso molecular.",
+        "b": "Poseer siempre un enlace N-glicosídico entre pentosas y bases.",
+        "c": "Su insolubilidad en agua y solubilidad en solventes orgánicos apolares.",
+        "d": "Estar compuestos exclusivamente por aminoácidos polares con carga negativa."
+      },
+      "correcta": "c",
+      "justificacion_correcta": "Los lípidos constituyen un grupo heterogéneo cuyo carácter común es la insolubilidad en agua (hidrofobicidad) y su solubilidad en solventes orgánicos no polares.",
+      "fuente": "7-Lípidos.pdf, p. 2",
+      "id": "lipidos-001"
+    },
+    {
+      "subtema": "Estructura de ácidos grasos",
+      "dificultad": "facil",
+      "pregunta": "¿Qué componentes integran la estructura general de un ácido graso?",
+      "opciones": {
+        "a": "Un anillo pentanoperhidrofenantreno y tres grupos fosfato.",
+        "b": "Una cadena hidrocarbonada lineal (cola apolar) y un grupo carboxilo en C1 (cabeza polar).",
+        "c": "Un alcohol glicerol unido a una base purínica mediante enlace éster.",
+        "d": "Una secuencia de L-aminoácidos unidos por enlaces peptídicos."
+      },
+      "correcta": "b",
+      "justificacion_correcta": "Un ácido graso consta de una cadena hidrocarbonada lineal apolar (hidrofóbica) y un grupo funcional carboxilo (-COOH) polar en el carbono N°1.",
+      "fuente": "7-Lípidos.pdf, p. 4, 5, 9",
+      "id": "lipidos-002"
+    },
+    {
+      "subtema": "Carácter anfipático de ácidos grasos",
+      "dificultad": "media",
+      "pregunta": "¿Por qué se dice que los ácidos grasos son moléculas anfipáticas?",
+      "opciones": {
+        "a": "Porque pueden actuar como combustibles en el citosol y en las mitocondrias.",
+        "b": "Porque poseen una región polar hidrofílica (carboxilo) y una región apolar hidrofóbica (cadena hidrocarbonada).",
+        "c": "Porque contienen dobles enlaces en posición cis y trans simultáneamente.",
+        "d": "Porque se disuelven tanto en agua pura como en soluciones salinas neutras."
+      },
+      "correcta": "b",
+      "justificacion_correcta": "El término anfipático se refiere a moléculas que poseen en su estructura ambas zonas: una cabeza polar/hidrofílica e interactuante con agua y una cola apolar/hidrofóbica.",
+      "fuente": "7-Lípidos.pdf, p. 4, 9",
+      "id": "lipidos-003"
+    },
+    {
+      "subtema": "Ácidos grasos saturados vs insaturados",
+      "dificultad": "facil",
+      "pregunta": "¿Qué diferencia química estructural existe entre un ácido graso saturado y uno insaturado?",
+      "opciones": {
+        "a": "El saturado posee dobles enlaces carbono-carbono y el insaturado enlaces simples.",
+        "b": "El saturado carece por completo de grupo carboxilo terminal.",
+        "c": "El insaturado posee un número impar de átomos de carbono.",
+        "d": "El saturado solo tiene enlaces simples C-C y el insaturado presenta al menos un doble enlace C=C."
+      },
+      "correcta": "d",
+      "justificacion_correcta": "Los ácidos grasos saturados no contienen dobles enlaces entre los carbonos de la cadena; los insaturados presentan uno (monoinsaturados) o más dobles enlaces (poliinsaturados).",
+      "fuente": "7-Lípidos.pdf, p. 4, 5, 6",
+      "id": "lipidos-004"
+    },
+    {
+      "subtema": "Geometría de dobles enlaces",
+      "dificultad": "media",
+      "pregunta": "¿Qué efecto geométrico produce la presencia de un doble enlace en posición *cis* en la cadena de un ácido graso insaturado?",
+      "opciones": {
+        "a": "Mantiene la cadena hidrocarbonada en una forma rectilínea rígida.",
+        "b": "Facilita el empaquetamiento compacto entre moléculas contiguas.",
+        "c": "Genera un quiebre o acodamiento en la estructura tridimensional de la cadena.",
+        "d": "Sustituye la cabeza de carboxilo por un grupo fosfato."
+      },
+      "correcta": "c",
+      "justificacion_correcta": "El isómero geométrico *cis* introduce una angulación o quiebre a la altura del doble enlace, impidiendo que las cadenas se dispongan de forma rectilínea.",
+      "fuente": "7-Lípidos.pdf, p. 7, 19, 27",
+      "id": "lipidos-005"
+    },
+    {
+      "subtema": "Nomenclatura de series Omega",
+      "dificultad": "media",
+      "pregunta": "¿Cómo se determina la serie 'omega' ($\\omega$) a la que pertenece un ácido graso insaturado?",
+      "opciones": {
+        "a": "Contando los carbonos desde el extremo metilo terminal (carbono omega) hasta la primera doble ligadura.",
+        "b": "Contando la cantidad total de grupos carboxilo presentes en la molécula.",
+        "c": "Contando los carbonos a partir del grupo esterificado con el glicerol.",
+        "d": "Midiendo el pH de disociación del grupo ácido en agua."
+      },
+      "correcta": "a",
+      "justificacion_correcta": "La serie omega se establece identificando la posición del primer doble enlace contando los carbonos desde el último carbono de la cadena (carbono $\\omega$ o metílico).",
+      "fuente": "7-Lípidos.pdf, p. 4, 11",
+      "id": "lipidos-006"
+    },
+    {
+      "subtema": "Ácidos grasos esenciales",
+      "dificultad": "media",
+      "pregunta": "¿Cuáles de los siguientes ácidos grasos se consideran esenciales en la dieta humana?",
+      "opciones": {
+        "a": "Ácido linoleico (omega-6) y ácido linolénico (omega-3).",
+        "b": "Ácido oleico y ácido palmítico.",
+        "c": "Ácido esteárico y ácido elaídico.",
+        "d": "Ácido araquídico y ácido butírico."
+      },
+      "correcta": "a",
+      "justificacion_correcta": "El ácido linoleico ($\\omega$-6) y el ácido linolénico ($\\omega$-3) no pueden ser sintetizados por el organismo humano a partir de grasas saturadas y deben incorporarse en los alimentos.",
+      "fuente": "7-Lípidos.pdf, p. 14",
+      "id": "lipidos-007"
+    },
+    {
+      "subtema": "Comportamiento en agua - Micelas",
+      "dificultad": "media",
+      "pregunta": "¿Qué estructura supramolecular esférica forman libremente los ácidos grasos al dispersarse en un medio acuoso?",
+      "opciones": {
+        "a": "Bicapa lipídica plana",
+        "b": "Micela",
+        "c": "Vaina de mielina",
+        "d": "Lipoproteína LDL"
+      },
+      "correcta": "b",
+      "justificacion_correcta": "Las moléculas cónicas de ácidos grasos en agua agrupan sus colas apolares hacia el centro protegido e interior de la esfera, dejando sus cabezas polares hacia el agua exterior (micela).",
+      "fuente": "7-Lípidos.pdf, p. 10, 46",
+      "id": "lipidos-008"
+    },
+    {
+      "subtema": "Estructura de triacilgliceroles",
+      "dificultad": "facil",
+      "pregunta": "¿Qué enlace covalente une al alcohol glicerol con los tres ácidos grasos en la molécula de un triglicérido?",
+      "opciones": {
+        "a": "Enlace peptídico",
+        "b": "Enlace éster",
+        "c": "Puente fosfodiéster",
+        "d": "Enlace N-glicosídico"
+      },
+      "correcta": "b",
+      "justificacion_correcta": "Los triglicéridos son triésteres formados mediante la reacción de esterificación (condensación) entre los tres grupos hidroxilo del glicerol y los carboxilos de tres ácidos grasos.",
+      "fuente": "7-Lípidos.pdf, p. 18, 20",
+      "id": "lipidos-009"
+    },
+    {
+      "subtema": "Propiedades de los triglicéridos",
+      "dificultad": "media",
+      "pregunta": "¿Por qué los triglicéridos son moléculas completamente apolares e hidrofóbicas (grasas neutras)?",
+      "opciones": {
+        "a": "Porque carecen de átomos de carbono e hidrógeno en su estructura.",
+        "b": "Porque contienen un grupo fosfato cargado negativamente en su interior.",
+        "c": "Porque las partes polares del glicerol y los ácidos grasos participan del enlace éster y quedan enmascaradas.",
+        "d": "Porque forman enlaces de hidrógeno con solventes polares."
+      },
+      "correcta": "c",
+      "justificacion_correcta": "Al formarse los enlaces éster entre los hidroxilos polares del glicerol y los carboxilos de los ácidos grasos, las regiones polares quedan enmascaradas, volviendo al triglicérido apolar.",
+      "fuente": "7-Lípidos.pdf, p. 21, 22",
+      "id": "lipidos-010"
+    },
+    {
+      "subtema": "Comparación aceites y grasas",
+      "dificultad": "media",
+      "pregunta": "A temperatura ambiente ($20^\\circ C$), ¿por qué los aceites son líquidos y las grasas son sólidas?",
+      "opciones": {
+        "a": "Los aceites poseen predominio de ácidos grasos saturados rectilíneos que empaquetan fuertemente.",
+        "b": "Los aceites presentan predominio de ácidos grasos insaturados cuyos quiebres impiden un empaquetamiento compacto.",
+        "c": "Las grasas son derivadas exclusivamente del alcohol esfingol.",
+        "d": "Los aceites contienen altos porcentajes de agua unida por hidratación."
+      },
+      "correcta": "b",
+      "justificacion_correcta": "Los ácidos grasos insaturados de los aceites tienen quiebres por dobles enlaces *cis* que disminuyen las interacciones hidrofóbicas intermoleculares, manteniéndolos líquidos a $20^\\circ C$.",
+      "fuente": "7-Lípidos.pdf, p. 18, 19, 23",
+      "id": "lipidos-011"
+    },
+    {
+      "subtema": "Comparación reserva energética: Glucógeno vs Grasas",
+      "dificultad": "dificil",
+      "pregunta": "¿Qué ventaja representa el almacenamiento de energía en forma de grasas (triglicéridos) respecto del glucógeno?",
+      "opciones": {
+        "a": "Las grasas son hidrofílicas y acumulan 2,75 g de agua por gramo de reserva.",
+        "b": "Las grasas se convierten directamente en glucosa sin requerir enzimas metabólicas.",
+        "c": "El glucógeno provee almacenamiento ilimitado en los tejido adiposos subcutáneos.",
+        "d": "Las grasas son hidrofóbicas, no retienen agua (reserva liviana) y entregan 9 kcal/g frente a las 4 kcal/g del glucógeno."
+      },
+      "correcta": "d",
+      "justificacion_correcta": "Las grasas son anhidras e hidrofóbicas (almacenan mayor densidad calórica sin peso de agua asociado, 9 kcal/g vs 4 kcal/g) y su capacidad de depósito en adipocitos es ilimitada.",
+      "fuente": "7-Lípidos.pdf, p. 24",
+      "id": "lipidos-012"
+    },
+    {
+      "subtema": "Grasas trans",
+      "dificultad": "media",
+      "pregunta": "¿Cómo se obtienen industrialmente las grasas *trans* e isómeros trans de ácidos grasos?",
+      "opciones": {
+        "a": "Por condensación de colesterol libre con fosfato inorgánico.",
+        "b": "Por fermentación bacteriana de glucosa citosólica.",
+        "c": "Por hidrólisis enzimática de esfingolípidos en la vaina de mielina.",
+        "d": "Por hidrogenación industrial de aceites vegetales insaturados."
+      },
+      "correcta": "d",
+      "justificacion_correcta": "Las grasas trans se originan comercialmente por la hidrogenación parcial de aceites vegetales, convirtiendo dobles enlaces *cis* en la geometría *trans* rectilínea.",
+      "fuente": "7-Lípidos.pdf, p. 27",
+      "id": "lipidos-013"
+    },
+    {
+      "subtema": "Estructura de fosfoacilgliceroles",
+      "dificultad": "media",
+      "pregunta": "¿Cuáles son los componentes estructurales que integran un fosfoacilglicérido (fosfolípido derivado del glicerol)?",
+      "opciones": {
+        "a": "Glicerol y tres ácidos grasos saturados únicamente.",
+        "b": "Esfingol, un ácido graso y un oligosacárido.",
+        "c": "Glicerol, dos ácidos grasos, un grupo fosfato y un compuesto nitrogenado (como colina o serina).",
+        "d": "Colesterol esterificado con tres residuos de amina."
+      },
+      "correcta": "c",
+      "justificacion_correcta": "Los fosfoacilgliceroles están formados por una molécula de glicerol unida a dos ácidos grasos (colas apolares) y a un grupo fosfato unido a una cabeza polar nitrogenada.",
+      "fuente": "7-Lípidos.pdf, p. 29, 30",
+      "id": "lipidos-014"
+    },
+    {
+      "subtema": "Estructura de esfingolípidos - Ceramida",
+      "dificultad": "dificil",
+      "pregunta": "¿Qué combinación de moléculas constituye el bloque base denominado 'ceramida' en los derivados de la esfingosina?",
+      "opciones": {
+        "a": "Glicerol + un grupo fosfato",
+        "b": "Colesterol + un monosacárido",
+        "c": "Esfingol (alcohol de 18C) + un ácido graso",
+        "d": "Dos ácidos grasos + una colina"
+      },
+      "correcta": "c",
+      "justificacion_correcta": "La ceramida se forma mediante la unión de la esfingosina (esfingol) con un ácido graso mediante enlace amida, sirviendo de núcleo para fosfoesfingolípidos y glucolípidos.",
+      "fuente": "7-Lípidos.pdf, p. 31, 33",
+      "id": "lipidos-015"
+    },
+    {
+      "subtema": "Clasificación de glucolípidos",
+      "dificultad": "dificil",
+      "pregunta": "¿En qué se diferencian estructuralmente los cerebrósidos de los gangliósidos?",
+      "opciones": {
+        "a": "Los gangliósidos carecen de colas hidrofóbicas.",
+        "b": "Los cerebrósidos poseen glicerol y los gangliósidos esfingol.",
+        "c": "Los cerebrósidos forman micelas y los gangliósidos son completamente apolares.",
+        "d": "Los cerebrósidos contienen monosacáridos y los gangliósidos contienen oligosacáridos complejos."
+      },
+      "correcta": "d",
+      "justificacion_correcta": "Tanto cerebrósidos como gangliósidos son glucolípidos derivados de la esfingosina, pero los cerebrósidos llevan un solo monosacárido y los gangliósidos llevan cadenas de oligosacáridos.",
+      "fuente": "7-Lípidos.pdf, p. 32, 33",
+      "id": "lipidos-016"
+    },
+    {
+      "subtema": "Comportamiento de lípidos de membrana en agua",
+      "dificultad": "media",
+      "pregunta": "¿Qué estructura supramolecular cilíndrica espontánea forman los fosfolípidos y glucolípidos en medio acuoso?",
+      "opciones": {
+        "a": "Bicapas lipídicas y vesículas",
+        "b": "Gotas lipídicas apolares aisladas",
+        "c": "Cristales de sales biliares",
+        "d": "Micelas monocapa de ácidos grasos"
+      },
+      "correcta": "a",
+      "justificacion_correcta": "Por su forma cilíndrica (con dos colas apolares y cabeza polar), los fosfolípidos y glucolípidos se autoorganizan en agua formando bicapas lipídicas de membrana y vesículas cerradas.",
+      "fuente": "7-Lípidos.pdf, p. 34, 35, 46",
+      "id": "lipidos-017"
+    },
+    {
+      "subtema": "Estructura de esteroides - Colesterol",
+      "dificultad": "media",
+      "pregunta": "¿De qué núcleo químico hidrocarbonado derivan los esteroides como el colesterol?",
+      "opciones": {
+        "a": "Núcleo de purina y pirimidina",
+        "b": "Ciclo pentanoperhidrofenantreno",
+        "c": "Anillo de esfingosina saturada",
+        "d": "Estructura helicoidal dextrógira"
+      },
+      "correcta": "b",
+      "justificacion_correcta": "Todos los esteroides comparten la estructura química del ciclopentanoperhidrofenantreno, compuesto por cuatro anillos fusionados.",
+      "fuente": "7-Lípidos.pdf, p. 39",
+      "id": "lipidos-018"
+    },
+    {
+      "subtema": "Funciones del colesterol",
+      "dificultad": "facil",
+      "pregunta": "¿Cuáles de las siguientes funciones corresponden al colesterol en los organismos animales?",
+      "opciones": {
+        "a": "Almacenar la información genética en el núcleo celular.",
+        "b": "Formar la pared celular vegetal y actuar como enzima respiratoria.",
+        "c": "Integrar las membranas celulares animales, ser precursor de la vitamina D, sales biliares y hormonas esteroides.",
+        "d": "Catalizar la traducción de ARN mensajero en el ribosoma."
+      },
+      "correcta": "c",
+      "justificacion_correcta": "El colesterol modula la fluidez de las membranas animales y sirve de molécula precursora para la síntesis de hormonas corticoesteroides, sexuales, vitamina D y sales biliares.",
+      "fuente": "7-Lípidos.pdf, p. 40",
+      "id": "lipidos-019"
+    },
+    {
+      "subtema": "Estructura de lipoproteínas",
+      "dificultad": "media",
+      "pregunta": "¿Cómo se organizan espacialmente los lípidos en una partícula lipoproteica de transporte sanguíneo?",
+      "opciones": {
+        "a": "Los lípidos apolares (triglicéridos y ésteres de colesterol) van en el interior y los anfipáticos (fosfolípidos y colesterol) junto con apoproteínas en la superficie.",
+        "b": "Los triglicéridos se ubican en el exterior expuestos directamente al plasma acuoso.",
+        "c": "Las apoproteínas forman un núcleo cristalino rodeado por una doble capa de colesterol puro.",
+        "d": "Toda la partícula está formada únicamente por ácidos grasos libres solubles."
+      },
+      "correcta": "a",
+      "justificacion_correcta": "Las lipoproteínas tienen un núcleo apolar hidrofóbico (triglicéridos y ésteres de colesterol) recubierto por una capa anfipática de fosfolípidos, colesterol libre y apoproteínas que le permiten viajar en sangre.",
+      "fuente": "7-Lípidos.pdf, p. 41, 43",
+      "id": "lipidos-020"
+    },
+    {
+      "subtema": "Tipos de lipoproteínas",
+      "dificultad": "media",
+      "pregunta": "¿Cuáles son las lipoproteínas plasmáticas conocidas por ser especialmente ricas en colesterol?",
+      "opciones": {
+        "a": "Quilomicrones (QM)",
+        "b": "VLDL (muy baja densidad)",
+        "c": "LDL (baja densidad) y HDL (alta densidad)",
+        "d": "Triglicéridos libres"
+      },
+      "correcta": "c",
+      "justificacion_correcta": "Dentro de la clasificación por densidad, las fracciones LDL y HDL son las principales transportadoras y depositarias de colesterol en la circulación.",
+      "fuente": "7-Lípidos.pdf, p. 43, 45",
+      "id": "lipidos-021"
+    },
+    {
+      "subtema": "Lipoproteínas y ateroesclerosis",
+      "dificultad": "facil",
+      "pregunta": "¿Por qué motivo se denomina habitualmente a la lipoproteína LDL como 'colesterol malo'?",
+      "opciones": {
+        "a": "Porque destruye los glóbulos rojos al circular por las arterias.",
+        "b": "Porque carece de apoproteínas en su capa exterior.",
+        "c": "Porque remueve el colesterol de los tejidos para llevarlo al hígado.",
+        "d": "Porque tiende a depositar el exceso de colesterol en las paredes arteriales formando placas de ateroma."
+      },
+      "correcta": "d",
+      "justificacion_correcta": "Las LDL transportan colesterol hacia las células periféricas; niveles elevados de LDL favorecen el depósito lipídico en la túnica íntima arterial (ateroesclerosis).",
+      "fuente": "7-Lípidos.pdf, p. 43, 44",
+      "id": "lipidos-022"
+    },
+    {
+      "subtema": "Role biológico del HDL",
+      "dificultad": "facil",
+      "pregunta": "¿Qué función protectora se le atribuye a la lipoproteína HDL ('colesterol bueno')?",
+      "opciones": {
+        "a": "Remover el exceso de colesterol de los tejidos y arterias para llevarlo al hígado.",
+        "b": "Sintetizar ácidos grasos saturados en el intestino.",
+        "c": "Inhibir la síntesis de vitamina D a nivel cutáneo.",
+        "d": "Aumentar la viscosidad del plasma acuoso."
+      },
+      "correcta": "a",
+      "justificacion_correcta": "Las HDL realizan el transporte inverso de colesterol, removiendo depósitos periféricos de colesterol sobrante y conduciéndolo al hígado para su excreción o metabolismo.",
+      "fuente": "7-Lípidos.pdf, p. 43, 44",
+      "id": "lipidos-023"
+    },
+    {
+      "subtema": "Ubicación del colesterol en la célula",
+      "dificultad": "media",
+      "pregunta": "¿En qué tipo de células el colesterol constituye un componente lipídico fundamental de sus membranas?",
+      "opciones": {
+        "a": "Exclusivamente en células vegetales.",
+        "b": "En el interior del cloroplasto de algas verdes.",
+        "c": "Unicamente en bacterias Gram negativas.",
+        "d": "En células de animales."
+      },
+      "correcta": "d",
+      "justificacion_correcta": "El colesterol forma parte de las membranas plasmáticas de células animales; las células vegetales carecen de colesterol (poseen otros fitoesteroles).",
+      "fuente": "7-Lípidos.pdf, p. 40, 89",
+      "id": "lipidos-024"
+    },
+    {
+      "subtema": "Carácter del colesterol libre vs esterificado",
+      "dificultad": "dificil",
+      "pregunta": "¿Qué cambio químico ocurre cuando un colesterol libre se convierte en un éster de colesterol?",
+      "opciones": {
+        "a": "Se une un ácido graso al grupo hidroxilo (-OH) en C3, transformándolo en una molécula puramente hidrofóbica.",
+        "b": "Pierde los cuatro anillos del ciclo pentanoperhidrofenantreno.",
+        "c": "Se une a una molécula de agua volviéndose completamente soluble en plasma.",
+        "d": "Se une a un fosfato formando una bicapa esférica."
+      },
+      "correcta": "a",
+      "justificacion_correcta": "El único grupo polar del colesterol es el -OH en el carbono 3; al esterificarse con el carboxilo de un ácido graso pierde dicha polaridad y se vuelve completamente apolar/hidrofóbico.",
+      "fuente": "7-Lípidos.pdf, p. 39, 42, 43",
+      "id": "lipidos-025"
+    },
+    {
+      "subtema": "Hidrólisis de triacilgliceroles",
+      "dificultad": "media",
+      "pregunta": "Según la reacción de degradación hidrolítica: $Triglicérido + 2 H_2O \rightarrow 2 Ácidos\\ Grasos + ...$, ¿qué producto intermedio incompleto se obtiene?",
+      "opciones": {
+        "a": "Glicerol libre",
+        "b": "Monoacilglicerol",
+        "c": "Esfingosina",
+        "d": "Colesterol libre"
+      },
+      "correcta": "b",
+      "justificacion_correcta": "Un triglicérido al perder 2 ácidos grasos por la hidrólisis de dos enlaces éster conserva un solo ácido graso unido al glicerol (monoacilglicerol).",
+      "fuente": "7-Lípidos.pdf, p. 17, 84",
+      "id": "lipidos-026"
+    },
+    {
+      "subtema": "Propiedades de las grasas saturadas",
+      "dificultad": "media",
+      "pregunta": "¿Qué repercusión sobre la salud humana tiene el consumo excesivo de grasas saturadas y grasas *trans*?",
+      "opciones": {
+        "a": "Disminuyen los niveles de glucosa en sangre y provocan ayuno.",
+        "b": "Aumentan la masa de glucógeno muscular sin alterar los lípidos.",
+        "c": "Impiden la formación de mielina en el sistema nervioso central.",
+        "d": "Elevan los niveles de colesterol LDL en sangre y son aterogénicas."
+      },
+      "correcta": "d",
+      "justificacion_correcta": "Las grasas saturadas y las grasas *trans* aumentan los niveles séricos de lipoproteínas de baja densidad (LDL), incrementando el riesgo de enfermedades cardiovasculares ateroescleróticas.",
+      "fuente": "7-Lípidos.pdf, p. 1, 27",
+      "id": "lipidos-027"
+    },
+    {
+      "subtema": "Estructura de la vaina de mielina",
+      "dificultad": "dificil",
+      "pregunta": "¿Qué tipo especial de lípidos complejos es especialmente abundante en la vaina de mielina desarrollada por oligodendrocitos y células de Schwann?",
+      "opciones": {
+        "a": "Fosfoesfingolípidos y glucolípidos (como esfingomielinas y cerebrósidos)",
+        "b": "Triglicéridos de reserva",
+        "c": "Ácidos grasos libres de cadena corta",
+        "d": "Sales biliares de sodio"
+      },
+      "correcta": "a",
+      "justificacion_correcta": "Las membranas de la mielina que aíslan eléctricamente a los axones neuronales son ricas en lípidos derivados del esfingol (esfingomielinas, cerebrósidos y gangliósidos).",
+      "fuente": "7-Lípidos.pdf, p. 32, 36, 37",
+      "id": "lipidos-028"
+    },
+    {
+      "subtema": "Solubilidad en solventes orgánicos",
+      "dificultad": "facil",
+      "pregunta": "¿En cuál de las siguientes sustancias se disuelven fácilmente las grasas y los aceites?",
+      "opciones": {
+        "a": "Solventes orgánicos apolares (como cloroformo o éter)",
+        "b": "Solución acuosa salina",
+        "c": "Agua pura destilada",
+        "d": "Soluciones diluidas de glucosa"
+      },
+      "correcta": "a",
+      "justificacion_correcta": "Por su naturaleza hidrofóbica y no polar, las grasas no se disuelven en agua pero sí lo hacen en solventes orgánicos no polares.",
+      "fuente": "7-Lípidos.pdf, p. 2, 22",
+      "id": "lipidos-029"
+    },
+    {
+      "subtema": "Lípidos combustibles vs de reserva",
+      "dificultad": "media",
+      "pregunta": "¿Bajo qué forma química circulan los lípidos cuando se utilizan como combustibles celulares de uso inmediato en estado libre?",
+      "opciones": {
+        "a": "Triglicéridos neutros compactos",
+        "b": "Ésteres de colesterol insolubles",
+        "c": "Ácidos grasos libres",
+        "d": "Polisacáridos insolubles"
+      },
+      "correcta": "c",
+      "justificacion_correcta": "En estado libre no esterificado, los ácidos grasos pueden ser captados por las células para someterse a degradación oxidativa (β-oxidación) y producir ATP.",
+      "fuente": "7-Lípidos.pdf, p. 15, 46",
+      "id": "lipidos-030"
+    }
+  ]
+}
